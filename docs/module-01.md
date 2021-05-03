@@ -2,19 +2,34 @@
 
 # What is usability and user experience design?
 
-## Summaries and Questions  
-[May 9th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377751)
+## One-Minute Summaries and Questions  
 
-## Presented Slides  
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+[Defining usability]() <span class='badge'> Thu Jan 14th 11:59pm PT </span>  
+[The UX Pyramid]() <span class='badge'> Thu Jan 14th 11:59pm PT </span>  
 
-## Supplemental Materials  
-[Elements of User Experience by Jesse James Garrett](https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf)
-<div class="responsive-wrap"><iframe src="https://docs.google.com/viewer?url=http://infolab.stanford.edu/pub/papers/google.pdf&embedded=true" style="width:780px; height:585px;" frameborder="0"></iframe></div>
+## Weekly Quiz
+
+[Week 1 Review Quiz (Practice)]() <span class='badge'> Sun Jan 17th 11:59pm PT </span>  
+
+## Required Readings  
+
+[Defining usability (7 minute read)]()  
+[The UX Pyramid (13 minute read)]()  
+
+## BlackBoard Collaborate Session Slides
+
+[Course Overview](https://docs.google.com/presentation/d/e/2PACX-1vSXtaVXx41t1chhxkkLvYcEu7DHFrh2zIbVblo_PvIUTmSYw8xTYIM6Lb-6IxoJvMEdQgBZdwAECVl8/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/61465/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-01) | [Recording](https://canvas.sfu.ca/courses/61465/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
+
+<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSXtaVXx41t1chhxkkLvYcEu7DHFrh2zIbVblo_PvIUTmSYw8xTYIM6Lb-6IxoJvMEdQgBZdwAECVl8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+
+[Week 1 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vS28xi-S4fx-GyQ6uw-5Sk2L9uNenrV7wZ3hLjJegaoiZ34Wa9R6-B91qXWcN_MQ7S1twdANhjYNan_/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/61465/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-01) | [Recording](https://canvas.sfu.ca/courses/61465/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
+
+<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS28xi-S4fx-GyQ6uw-5Sk2L9uNenrV7wZ3hLjJegaoiZ34Wa9R6-B91qXWcN_MQ7S1twdANhjYNan_/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+
+## CMPT-363 UX Design Process ([Double Diamond](https://en.wikipedia.org/wiki/Double_Diamond_(design_process_model)))
+
+![Double Diamond (British Design Council)](assets/images/Double_diamond.png)
 
 ## Downloads
-[Course Overview](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Course%20Overview)  
 
-## Recommended Reading  
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/usability-101-introduction-to-usability/">Usability 101: Introduction to Usability</a>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+[Product Reaction Cards](https://canvas.sfu.ca/courses/61465/files/folder/Downloads/Product%20Reaction%20Cards)  
