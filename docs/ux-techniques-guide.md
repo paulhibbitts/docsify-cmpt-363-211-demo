@@ -5,17 +5,44 @@
 <details>
   <summary>What is Usability and User Experience Design?</summary>
 
-  Design Thinking  
-  _An iterative methodology for producing practical and creative resolutions to problems or issues._
+Agile UX  
+_A variation of the Agile methodology, which supports a more collaborative approach to various user experience design methods._
 
-  *   [A Brief History of Design Thinking: How Design Thinking Came to 'Be' ](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
-  *   [Design Thinking 101](https://www.nngroup.com/articles/design-thinking/)
-  *   [Demystifying Design Thinking: Interview with Tamara Christensen](http://thinkjarcollective.com/interviews/demystifying-design-thinking-interview-tamara-christensen/)
-  *   [Design Thinking... What is That?](http://www.fastcompany.com/919258/design-thinking-what)  
-  *   [Design Thinking | Employing Design Principles | Defining Ease of Use](http://www.uxmatters.com/mt/archives/2011/01/design-thinking-employing-design-principles-defining-ease-of-use.php)
-  *   [Design Thinking Comes of Age](https://hbr.org/2015/09/design-thinking-comes-of-age)  
-  *   [How to apply a design thinking, HCD, UX or any creative process from scratch](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812#.y2tfvlsq0)
-  *   [The Design of business: Why Design Thinking is the Next Competitive Advantage](http://net.tutsplus.com/articles/general/three-steps-to-fostering-a-user-centered-design-culture/)
+*   [Agile User Experience Design](http://www.uxmatters.com/mt/archives/2012/04/agile-user-experience-design.php)  
+*   [Bringing User Centered Design to the Agile Environment](http://boxesandarrows.com/bringing-user-centered-design-to-the-agile-environment/)  
+*   [Fitting Big-Picture UX Into Agile Development](http://uxdesign.smashingmagazine.com/2012/11/06/design-spikes-fit-big-picture-ux-agile-development/)  
+*   [User Experience and Agile](https://www.uxmatters.com/mt/archives/2017/08/user-experience-and-agile.php)  
+*   [UX and Agile: Tying the knot](http://uxmag.com/articles/ux-and-agile-tying-the-knot)  
+
+Design Ethics  
+_Design ethics are values or aspects considered by designers during the creation of a service or product._
+
+*   [A Guide to Everyday Design Ethics](https://www.invisionapp.com/blog/guide-everyday-design-ethics/)
+*   [Conducting Ethical User Research](https://www.interaction-design.org//literature/article/conducting-ethical-user-research?utm_source=twitter&utm_medium=sm)
+*   [Designing ethically pt. 1](https://uxdesign.cc/designing-ethically-pt-1-9800bfbc86a3)
+*   [Ethical Design: The Practical Getting-Started Guide](https://www.smashingmagazine.com/2018/03/ethical-design-practical-getting-started-guide/)
+*   [Findings from Ethics in Design](https://uxdesign.cc/findings-from-ethics-in-design-21ba274315d4)
+*   [Start designing for transparency.](https://medium.com/artefact-stories/stop-designing-for-delight-start-designing-for-transparency-39113cf8014)
+
+Design Thinking  
+_An iterative methodology for producing practical and creative resolutions to problems or issues._
+
+*   [A Brief History of Design Thinking: How Design Thinking Came to 'Be' ](https://ithinkidesign.wordpress.com/2012/06/08/a-brief-history-of-design-thinking-how-design-thinking-came-to-be/)
+*   [Design Thinking 101](https://www.nngroup.com/articles/design-thinking/)
+*   [Demystifying Design Thinking: Interview with Tamara Christensen](http://thinkjarcollective.com/interviews/demystifying-design-thinking-interview-tamara-christensen/)
+*   [Design Thinking... What is That?](http://www.fastcompany.com/919258/design-thinking-what)  
+*   [Design Thinking | Employing Design Principles | Defining Ease of Use](http://www.uxmatters.com/mt/archives/2011/01/design-thinking-employing-design-principles-defining-ease-of-use.php)
+*   [Design Thinking Comes of Age](https://hbr.org/2015/09/design-thinking-comes-of-age)  
+*   [How to apply a design thinking, HCD, UX or any creative process from scratch](https://medium.com/digital-experience-design/how-to-apply-a-design-thinking-hcd-ux-or-any-creative-process-from-scratch-b8786efbf812#.y2tfvlsq0)
+*   [The Design of business: Why Design Thinking is the Next Competitive Advantage](http://net.tutsplus.com/articles/general/three-steps-to-fostering-a-user-centered-design-culture/)
+
+Lean UX  
+_Often associated with use in start-ups, this methodology is focused on the rapid evaluation of hypotheses (i.e. learning loops), while putting in the minimal amount of effort required to test these hypotheses._
+
+*   [ Andy Budd::Blogography - My thoughts on Lean UX](http://www.andybudd.com/archives/2011/10/my_thoughts_on_lean_ux/)  
+*   [Jeff Gothelf on Design as a Hypothesis | The Hipper Element](http://thehipperelement.com/post/60361702934/jeff-gothelf-on-design-as-a-hypothesis)  
+*   [Lean Design for Good User Experience](http://www2.le.ac.uk/departments/computer-science/people/elaw/HCI-3T/P6Gasik.pdf)  
+*   [Lean UX: Rethink Development](http://www.drdobbs.com/architecture-and-design/lean-ux-rethink-development/231902070)  
 
 Problem Statement  
 _A brief description of the issue that needs to be solved by a project or group._
