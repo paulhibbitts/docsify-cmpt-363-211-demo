@@ -52,124 +52,6 @@ _The design of the communication between the user and a system._
 </details>
 
 <details>
-  <summary>What Does a Holistic User Experience Design Process Look Like?</summary>
-
-Agile UX  
-_A variation of the Agile methodology, which supports a more collaborative approach to various user experience design methods._
-
-*   [Agile User Experience Design](http://www.uxmatters.com/mt/archives/2012/04/agile-user-experience-design.php)  
-*   [Bringing User Centered Design to the Agile Environment](http://boxesandarrows.com/bringing-user-centered-design-to-the-agile-environment/)  
-*   [Fitting Big-Picture UX Into Agile Development](http://uxdesign.smashingmagazine.com/2012/11/06/design-spikes-fit-big-picture-ux-agile-development/)  
-*   [User Experience and Agile](https://www.uxmatters.com/mt/archives/2017/08/user-experience-and-agile.php)  
-*   [UX and Agile: Tying the knot](http://uxmag.com/articles/ux-and-agile-tying-the-knot)  
-
-Design Ethics  
-_Design ethics are values or aspects considered by designers during the creation of a service or product._
-
-*   [A Guide to Everyday Design Ethics](https://www.invisionapp.com/blog/guide-everyday-design-ethics/)
-*   [Conducting Ethical User Research](https://www.interaction-design.org//literature/article/conducting-ethical-user-research?utm_source=twitter&utm_medium=sm)
-*   [Designing ethically pt. 1](https://uxdesign.cc/designing-ethically-pt-1-9800bfbc86a3)
-*   [Ethical Design: The Practical Getting-Started Guide](https://www.smashingmagazine.com/2018/03/ethical-design-practical-getting-started-guide/)
-*   [Findings from Ethics in Design](https://uxdesign.cc/findings-from-ethics-in-design-21ba274315d4)
-*   [Start designing for transparency.](https://medium.com/artefact-stories/stop-designing-for-delight-start-designing-for-transparency-39113cf8014)
-
-Lean UX  
-_Often associated with use in start-ups, this methodology is focused on the rapid evaluation of hypotheses (i.e. learning loops), while putting in the minimal amount of effort required to test these hypotheses._
-
-*   [ Andy Budd::Blogography - My thoughts on Lean UX](http://www.andybudd.com/archives/2011/10/my_thoughts_on_lean_ux/)  
-*   [Jeff Gothelf on Design as a Hypothesis | The Hipper Element](http://thehipperelement.com/post/60361702934/jeff-gothelf-on-design-as-a-hypothesis)  
-*   [Lean Design for Good User Experience](http://www2.le.ac.uk/departments/computer-science/people/elaw/HCI-3T/P6Gasik.pdf)  
-*   [Lean UX: Rethink Development](http://www.drdobbs.com/architecture-and-design/lean-ux-rethink-development/231902070)  
-
-Scenario-based Design (also known as Task-Centered Design)  
-_Another form of user-centered design that relies on stories of user interaction as the source of guidance for design requirements._
-
-*   [Five Reasons for Scenario-Based Design (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.106.5310&amp;amp;amp;amp;rep=rep1&amp;amp;amp;amp;type=pdf)  
-*   [Scenarios](http://uiaccess.com/accessucd/scenarios.html)  
-*   [Task-Centered User Interface Design - A Practical Introduction (incl. Amended Version)](http://web.cs.dal.ca/%7Ejamie/TCUID/readme.html)  
-
-User-centered design (UCD)  
-_A methodology and philosophy where users and their goals are the focal point._
-
-*   [Being User-Centered When Implementing a UCD Process](http://www.wqusability.com/articles/ucd-on-ucd.html)  
-*   [Three Steps to Fostering a User-Centered Design Culture](http://net.tutsplus.com/articles/general/three-steps-to-fostering-a-user-centered-design-culture/)  
-*   [User-Centered Design Basics](https://www.usability.gov/what-and-why/user-centered-design.html)  
-
-</details>
-
-<details>
-  <summary>How to Make More Strategic Design Decisions?</summary>
-
-Content Strategy  
-_Planning the creation, publication, and governance of useful, usable, and desirable content._
-
-*   [Content strategy 101, Part 1: giving context to your content](http://www.creativebloq.com/netmag/content-strategy-101-part-1-giving-context-your-content-3135760)  
-*   [How to Develop a User-Centered Content Strategy (PDF)](http://www.terpsys.com/docs/default-source/white-papers/how-to-develop-a-user-centered-content-strategy.pdf?sfvrsn=4)  
-*   [Practical Content Strategy in Action](http://www.uxbooth.com/articles/practical-content-strategy-in-action/)  
-*   [UX Designers Should Be Content Strategists Too](https://blog.nerdery.com/2013/09/ux-designers-should-be-content-strategists-too/)  
-
-Product Design Principles  
-_A set of design principles specific to the creation on a particular product._
-
-*   [Creating Great Design Principles - 6 Counter-intuitive Tests](https://articles.uie.com/creating-design-principles/)  
-*   [Developing Design Principles](http://www.lukew.com/ff/entry.asp?854)  
-*   [Design Principles: a guide to less sh*tty feedback](https://medium.com/apegroup-texts/design-principles-a-guide-to-less-shitty-feedback-64e9541816c1)  
-*   [Experience / Design Principles](https://uxthink.wordpress.com/2011/02/01/expereince-design-principles/)
-*   [MapBox Design Principles](https://www.designprinciplesftw.com/collections/mapbox-design-principles)  
-
-Journey Mapping  
-_A map of a person's experience throughout an existing service._
-
-*   [Journey Mapping in Real Life: A Survey of UX Practitioners](https://www.nngroup.com/articles/journey-mapping-ux-practitioners/)
-*   [Nine sample customer journey maps – and what we can learn from them](https://www.mycustomer.com/experience/engagement/nine-sample-customer-journey-maps-and-what-we-can-learn-from-them)
-*   [The Anatomy of an Experience Map](http://adaptivepath.org/ideas/the-anatomy-of-an-experience-map/)
-*   [The Value of Customer Journey Maps: A UX Designer’s Personal Journey](https://www.uxmatters.com/mt/archives/2011/09/the-value-of-customer-journey-maps-a-ux-designers-personal-journey.php)
-*   [Using Customer Journey Maps to Improve Customer Experience](https://hbr.org/2010/11/using-customer-journey-maps-to)
-*   [When and How to Create Customer Journey Maps](https://www.nngroup.com/articles/customer-journey-mapping/)
-*   [Why All UX Designers Should Be Creating User Journeys, And Here’s How To Make One](https://theblog.adobe.com/why-all-ux-designers-should-be-creating-user-journeys-and-heres-how-to-make-one/)
-
-Kano Model  
-_A model representing 5 types of customer requirements (or potential features)._
-
-*   [Feature Grading: An Introduction to the Kano Model](http://www.userfocus.co.uk/articles/kano-model.html)
-*   [Leveraging the Kano Model for Optimal Results](http://uxmag.com/articles/leveraging-the-kano-model-for-optimal-results)
-*   [The Kano Model – A tool to prioritize the users’ wants and desires](https://www.interaction-design.org/literature/article/the-kano-model-a-tool-to-prioritize-the-users-wants-and-desires)
-*   [Using The Kano Model To Prioritize Product Development](http://www.mindtheproduct.com/2013/07/using-the-kano-model-to-prioritize-product-development/)  
-
-Open Source Business Strategies  
-_Business strategies related to open source software products._
-
-*   [Creative Commons Toolkit for Business](https://creativecommons.org/2015/11/13/creative-commons-toolkit-for-business/)
-*   [Making Money With Software, or Because of It?](http://redmonk.com/sogrady/2007/12/14/making-money-with-software-or-because-of-it/)  
-*   [Open issues: lessons learned building an open source business ](http://werd.io/2015/open-issues-lessons-learned-building-an-open-source-business)  
-*   [Open source software has to sell user experience](https://opensource.com/community/16/6/mattermost-shows-oss-has-be-better)  
-
-User Experience Strategy  
-_Defining a set of end-user goals in relation to design and development work._
-
-*   [3 Keys to Aligning UX with Business Strategy](http://www.uxmatters.com/mt/archives/2012/09/3-keys-to-aligning-ux-with-business-strategy.php)  
-*   [How Design And User Experience Translates To The Bottom Line](http://www.forbes.com/sites/anthonykosner/2013/11/23/how-design-and-user-experience-translates-to-the-bottom-line/#11bd56fe7049)  
-*   [Making Research Actionable: An Introduction to Design Criteria](http://adaptivepath.org/ideas/making-research-actionable-an-introduction-to-design-criteria/)  
-*   [Planning Your UX Strategy](http://johnnyholland.org/2010/04/16/planning-your-ux-strategy/)  
-*   [There is no such thing as UX strategy](http://www.jeffgothelf.com/blog/there-is-no-such-thing-as-ux-strategy/#sthash.qlyTZv6A.dpbs)  
-
-Value of UX  
-_Associating a value to the practice of user experience design._
-
-*   [Making a Strong Business case for the ROI of UX](https://www.experiencedynamics.com/blog/2014/07/making-strong-business-case-roi-ux-infographic)  
-*   [Mapping Business Value to UX: An Idea’s Inception](http://www.uxmatters.com/mt/archives/2013/10/mapping-business-value-to-ux-an-ideas-inception.php)
-*   [“Sell me this pen”: Explaining the value of #UX](http://www.josephdickerson.com/blog/2016/06/25/57739/?utm_source=twitterfeed&utm_medium=twitter)
-
-Value Proposition  
-_A clear statement which communicates the benefits of a product or service._
-
-*   [7 of the Best Value Proposition Examples We’ve Ever Seen](http://www.wordstream.com/blog/ws/2016/04/27/value-proposition-examples)  
-*   [Creating a value proposition](https://welovelean.wordpress.com/2012/08/18/creating-a-value-proposition/)  
-*   [Don’t ever forget about Value Proposition](http://www.ux-lady.com/dont-ever-ever-forget-about-value-proposition/)  
-
-</details>
-
-<details>
   <summary>How to Understand and Communicate People's Needs and Behaviors?</summary>
 
 Affinity Diagrams  
@@ -273,7 +155,6 @@ _Task analysis is the decomposition of how tasks are currently performed._
 *   [Task Analysis - Hierarchical, If/Then, and Model-Based](http://siteresources.worldbank.org/WBI/Resources/213798-1194538727144/4Final-Task_Analysis.pdf)  
 *   [Uncovering True Motivation: The Whys and Wherefore](http://www.stcsig.org/usability/newsletter/0310-motivation.html)  
 
-
 User Profiles  
 _A summary of relevant user characteristics, which can include both demographic and behavioral information._
 
@@ -312,116 +193,67 @@ _Brief narratives that describe on user interactions with a system, with a focus
 </details>
 
 <details>
-  <summary>How to Explore and Describe Possible Design Solutions?</summary>
+  <summary>What is the Practice of Multi-Device Interaction Design? </summary>
 
-Brainstorming  
-_Brainstorming is a common group ideation technique._
+Content Inventories  
+_Identifying and classifying the content in an existing product or system._
 
-*   [7 Tips on Better Brainstorming](https://challenges.openideo.com/blog/seven-tips-on-better-brainstorming)
-*   [How to run a brainstorming meeting](http://scottberkun.com/essays/34-how-to-run-a-brainstorming-meeting/)
-*   [Ideation in Practice: How Effective UX Teams Generate Ideas](https://www.nngroup.com/articles/ideation-in-practice/)
-*   [Tips for Structuring Better Brainstorming Sessions](http://www.inspireux.com/2013/07/18/tips-for-structuring-better-brainstorming-sessions/)
-*   [Troubleshooting Group Ideation: 10 Fixes for More and Better UX Ideas](https://www.nngroup.com/articles/group-ideation/?utm_content=buffer38903&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+*   [How to Conduct A Content Audit](http://uxmastery.com/how-to-conduct-a-content-audit/)  
+*   [Tips for laying out a responsive site](http://jamie-plouff.tumblr.com/post/103060444705/tips-for-laying-out-a-responsive-site)  
+*   [Tools for the UX Architect: Content Inventory](http://blogs.captechconsulting.com/blog/brendon-cornwell/tools-the-ux-architect-content-inventory)  
 
-Concept Maps  
-_A diagram showing how various concepts are related._
+Content Prioritization  
+_Determining the relative value of content in relation to its audience._
 
-*   [Concept map](http://edutechwiki.unige.ch/en/Concept_map)
-*   [Concept maps vs. mind maps](http://mindmappingsoftwareblog.com/concept-maps-vs-mind-maps/)  
+*   [Devising a Strategy for Responsive Design](https://www.uie.com/articles/strategy_for_responsive_design/)  
+*   [Responsive-Ready Content](http://sarawb.com/2012/03/07/content-strategy-responsive-design/)  
+*   [The case for responsive web content: it's all about the users](http://www.creativebloq.com/mobile/case-responsive-web-content-its-all-about-users-7126217)  
 
-Conceptualizing Interaction  
-_Exploring what interaction model will be presented to the user through the use of structure, behavior, and visuals._
+Designing for Touch  
+_How to make applications and website touch optimized._
 
-*   [Book Review: The Design of Everyday Things](http://jonathannicol.com/blog/2011/05/14/book-review-the-design-of-everyday-things/)  
-*   [Conceptual models: begin by designing what to design (PDF)](http://davidlamas.files.wordpress.com/2010/03/jeff-johnson.pdf)  
-*   [Conceptual Design for Interactive Systems: Designing for Performance and User Experience](http://www.uxmatters.com/mt/archives/2015/12/conceptual-design-for-interactive-systems-designing-for-performance-and-user-experience.php)  
-*   [Specifying what we want the user experience to be - the designer's model](https://www-01.ibm.com/software/ucd/designconcepts/threemodels/designer.html)  
+*   [Design for Fingers, Touch, and People, Part 3.](http://www.uxmatters.com/mt/archives/2017/07/design-for-fingers-touch-and-people-part-3.php)
+*   [Hover is dead. Long live hover.](https://medium.com/instacart-design/hover-is-dead-long-live-hover-37a89d3795df#.26ua6m3ux)  
+*   [Responsive Navigation: Optimizing for Touch Across Devices](http://www.lukew.com/ff/entry.asp?1649)  
+*   [The Pursuit of Tappiness](http://uxmag.com/articles/the-pursuit-of-tappiness)  
+*   [The Cost of a Touch](http://uxmag.com/articles/the-cost-of-a-touch)  
+*   [The Thumb Zone: Designing For Mobile Users](https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/)  
+*   [Touch interaction design (Windows Store apps)](http://msdn.microsoft.com/en-ca/library/windows/apps/hh465415.aspx)  
 
-Design Patterns  
-_General solutions for commonly occurring system design problems._
+Mobile and Multi-device Web Design  
+_How to more effectively design and build for mobile and multi-device usage._
 
-*   [Patternry](http://www.patternry.com/)  
-*   [UI Patterns](http://ui-patterns.com/)  
-*   [Who Benefits From the Use of Design Patterns?](https://dzone.com/articles/who-benefits-use-design)  
+*   [Design for Every Screen](http://shoobe01.blogspot.ca/2011/11/design-for-every-screen.html)  
+*   [Designing Exceptional Mobile Experiences](http://uxmag.com/articles/designing-exceptional-mobile-experiences)  
+*   [Eight Tips to Make Your First Mobile Design a Success](http://www.peachpit.com/articles/article.aspx?p=1846581)  
+*   [Mobile first: Insights from going mobile only ](http://blog.invisionapp.com/mobile-first-mobile-only/)
+*   [Framework for Designing for Multiple Devices](http://uxmag.com/articles/framework-for-designing-for-multiple-devices)  
+*   [The Hamburger Menu Doesn’t Work](http://jamesarcher.me/hamburger-menu)  
+*   [Think Again: Assumptions About Mobile To Reconsider](http://mobile.smashingmagazine.com/2013/01/18/assumptions-about-mobile-to-reconsider/)  
+*   [Tools for Mobile UX Design](http://www.uxmatters.com/mt/archives/2013/06/tools-for-mobile-ux-design.php)  
 
-Design Systems  
-_A design system is a collection of reusable components, which can be used to build any number of applications._
+Responsive HTML Frameworks  
+_HTML frameworks that support responsive web design._
 
-*   [Design Systems Handbook](https://www.designbetter.co/design-systems-handbook)
-*   [On the Current State of Design Systems in UX](https://medium.com/innovatemap-current/on-the-current-state-of-design-systems-in-ux-4cd0aa1fad71)
-*   [The User Experience of Design Systems](https://runemadsen.com/talks/uxcampcph/)
+*   [Kube CSS Framework](http://imperavi.com/kube/)  
+*   [(Twitter) Bootstrap](http://getbootstrap.com/)  
+*   [Zurb Foundation](http://foundation.zurb.com/)  
 
-Problem Reframing  
-_Re-examining the underlying goals, assumptions and perspectives that are assumed to be part of the problem._
+Responsive Web Design  
+_A technique where individual web pages automatically adjust to various screen sizes._
 
-*   [Abductive Thinking and Sensemaking: The Drivers of Design Synthesis](http://www.jonkolko.com/writingAbductiveThinking.php)  
-*   [Reframe: Shift the Way You Work, Innovate, and Think](http://www.uxmatters.com/mt/archives/2015/09/reframe-shift-the-way-you-work-innovate-and-think.php)  
-*   [Reframing is a Strategic Skill and a Design Thinking Skill](http://www.innovationexcellence.com/blog/2010/06/16/reframing-is-a-strategic-skill-and-a-design-thinking-skill/)  
-
-Process Flows  
-_An illustration of specific processes a user may undertake within a system._
-
-*   [Process Flow Definition](http://www.ehow.com/about_5040255_process-flow-definition.html)  
-*   [Task Flows](http://pathfindersoftware.com/tag/task-flows/)  
-*   [User Task Flows (PDF)](http://www.stickyminds.com/getfile.asp?ot=XML&amp;amp;amp;amp;id=12987&amp;amp;amp;amp;fn=XUS29543666file1%2Epdf)  
-
-Prototyping  
-_The creation of a working model of a system or interface._
-
-*   [Design Better And Faster With Rapid Prototyping](http://www.smashingmagazine.com/2010/06/design-better-faster-with-rapid-prototyping/)  
-*   [Designer’s Toolkit: Prototyping Tools](http://www.cooper.com/prototyping-tools)  
-*   [Designing with Code](http://www.uxbooth.com/articles/designing-with-code/)  
-*   [Five Prevalent Pitfalls when Prototyping](http://www.uie.com/articles/pitfalls_prototyping/)  
-*   [Flavors of Prototypes](http://www.svpg.com/flavors-of-prototypes)  
-*   [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860#.jycn9ioad)  
-*   [The Skeptic’s Guide To Low-Fidelity Prototyping](http://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)  
-*   [Using prototypes in user research](https://userresearch.blog.gov.uk/2014/08/27/using-prototypes-in-user-research/)  
-
-Scenarios  
-_Descriptions of how a specific user accomplishes their goal, with regards to an existing or yet-to-be system._
-
-*   [Create Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)  
-*   [Context-Rich Scenarios Make UX Projects Manageable](http://www.uie.com/articles/ux_projects_scenarios/)  
-*   [Tell me the story: the unifying role of scenarios in conceptual design](http://www.humanfactors.com/downloads/apr04.asp)  
-
-Site Maps  
-_Graphical or textual representation of the structure of a website._
-
-*   [Is the Sitemap Losing Its Client-Facing Steam?](http://uxmag.com/articles/is-the-sitemap-losing-its-client-facing-steam)  
-*   [UX 101: The Site Map](http://viget.com/inspire/ux-101-the-site-map)  
-
-Sketching  
-_A means to explore ideas and iterate on concepts quickly and easily._
-
-*   [User interface sketching tips part 1](http://ui-patterns.com/blog/User-interface-sketching-tips-part-1)  
-*   [Wireframe 101: Sketch First, Wireframe Later](http://maryshaw.net/wireframe-101-sketch-first-wireframe-later/)  
-
-Storyboards  
-_A sequence of images or drawings representing a specific period of time._
-
-*   [Storyboarding a user experience](http://www.visualbloke.com/NUIVIGPage.html)  
-*   [Storyboards and Startups](http://www.akersarchitecturalrendering.com/blog/2010/3/14/storyboards-and-startups-how-sketching-can-help-entrepreneur.html)  
-*   [Telling Your Website's Story with Sketchboarding](http://www.uxbooth.com/blog/telling-your-websites-story-with-sketchboarding/)  
-*   [The 8 Steps To Creating A Great Storyboard](http://www.fastcodesign.com/1672917/the-8-steps-to-creating-a-great-storyboard/)  
-
-Wireflows  
-_A combination of process flows and wireframes._
-
-*   [Page Level Wireflows](http://wireframes.linowski.ca/2009/02/page-level-wireflows/)  
-*   [State Level Wireflows and Transitions](http://wireframes.linowski.ca/2009/02/state-level-wireflows-and-transitions/)  
-
-Wireframes  
-_Drawings of individual screens that represent major content and navigation elements._
-
-*   [Priority Guides: A Content-First Alternative to Wireframes](http://alistapart.com/article/priority-guides-a-content-first-alternative-to-wireframes)  
-*   [Storyboarding a user experience](http://www.visualbloke.com/NUIVIGPage.html)  
-*   [Real Wireframes Get Real Results](http://boxesandarrows.com/real-wireframes-get-real-results/)  
-*   [Ultimate Guide to Website Wireframing](http://sixrevisions.com/user-interface/website-wireframing/)  
+*   [9 responsive design mistakes you don’t want to make](http://thenextweb.com/dd/2015/10/28/9-responsive-design-mistakes-you-dont-want-to-make/)
+*   [Beginner's Guide to Responsive Web Design](http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design)  
+*   [Design Process In The Responsive Age](http://uxdesign.smashingmagazine.com/2012/05/30/design-process-responsive-age/)  
+*   [Responsive Strategy](http://bradfrost.com/blog/post/responsive-strategy/)
+*   [Responsive Web Design](http://webdesign.tutsplus.com/articles/responsive-web-design--webdesign-15155)
+*   [Responsive Web Design Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html)
+*   [The opportunities and challenges of responsive design](http://www.webdesignerdepot.com/2012/11/the-opportunities-and-challenges-of-responsive-design/)  
 
 </details>
 
 <details>
-  <summary>How to Design Products for How People Think, Learn and Feel?</summary>
+  <summary>How to Bridge the Gap Between the Problem Space and Design Space? </summary>
 
 Accessibility  
 _Accessibility is the practice of removing barriers that prevent interaction or access to websites by people with disabilities._  
@@ -550,6 +382,115 @@ _A visual representation that shows a key sequence of a task._
 </details>
 
 <details>
+  <summary>How to Explore and Describe Possible Design Solutions?</summary>
+
+Brainstorming  
+_Brainstorming is a common group ideation technique._
+
+*   [7 Tips on Better Brainstorming](https://challenges.openideo.com/blog/seven-tips-on-better-brainstorming)
+*   [How to run a brainstorming meeting](http://scottberkun.com/essays/34-how-to-run-a-brainstorming-meeting/)
+*   [Ideation in Practice: How Effective UX Teams Generate Ideas](https://www.nngroup.com/articles/ideation-in-practice/)
+*   [Tips for Structuring Better Brainstorming Sessions](http://www.inspireux.com/2013/07/18/tips-for-structuring-better-brainstorming-sessions/)
+*   [Troubleshooting Group Ideation: 10 Fixes for More and Better UX Ideas](https://www.nngroup.com/articles/group-ideation/?utm_content=buffer38903&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+
+Concept Maps  
+_A diagram showing how various concepts are related._
+
+*   [Concept map](http://edutechwiki.unige.ch/en/Concept_map)
+*   [Concept maps vs. mind maps](http://mindmappingsoftwareblog.com/concept-maps-vs-mind-maps/)  
+
+Conceptualizing Interaction  
+_Exploring what interaction model will be presented to the user through the use of structure, behavior, and visuals._
+
+*   [Book Review: The Design of Everyday Things](http://jonathannicol.com/blog/2011/05/14/book-review-the-design-of-everyday-things/)  
+*   [Conceptual models: begin by designing what to design (PDF)](http://davidlamas.files.wordpress.com/2010/03/jeff-johnson.pdf)  
+*   [Conceptual Design for Interactive Systems: Designing for Performance and User Experience](http://www.uxmatters.com/mt/archives/2015/12/conceptual-design-for-interactive-systems-designing-for-performance-and-user-experience.php)  
+*   [Specifying what we want the user experience to be - the designer's model](https://www-01.ibm.com/software/ucd/designconcepts/threemodels/designer.html)  
+
+Design Patterns  
+_General solutions for commonly occurring system design problems._
+
+*   [Patternry](http://www.patternry.com/)  
+*   [UI Patterns](http://ui-patterns.com/)  
+*   [Who Benefits From the Use of Design Patterns?](https://dzone.com/articles/who-benefits-use-design)  
+
+Design Systems  
+_A design system is a collection of reusable components, which can be used to build any number of applications._
+
+*   [Design Systems Handbook](https://www.designbetter.co/design-systems-handbook)
+*   [On the Current State of Design Systems in UX](https://medium.com/innovatemap-current/on-the-current-state-of-design-systems-in-ux-4cd0aa1fad71)
+*   [The User Experience of Design Systems](https://runemadsen.com/talks/uxcampcph/)
+
+Problem Reframing  
+_Re-examining the underlying goals, assumptions and perspectives that are assumed to be part of the problem._
+
+*   [Abductive Thinking and Sensemaking: The Drivers of Design Synthesis](http://www.jonkolko.com/writingAbductiveThinking.php)  
+*   [Reframe: Shift the Way You Work, Innovate, and Think](http://www.uxmatters.com/mt/archives/2015/09/reframe-shift-the-way-you-work-innovate-and-think.php)  
+*   [Reframing is a Strategic Skill and a Design Thinking Skill](http://www.innovationexcellence.com/blog/2010/06/16/reframing-is-a-strategic-skill-and-a-design-thinking-skill/)  
+
+Process Flows  
+_An illustration of specific processes a user may undertake within a system._
+
+*   [Process Flow Definition](http://www.ehow.com/about_5040255_process-flow-definition.html)  
+*   [Task Flows](http://pathfindersoftware.com/tag/task-flows/)  
+*   [User Task Flows (PDF)](http://www.stickyminds.com/getfile.asp?ot=XML&amp;amp;amp;amp;id=12987&amp;amp;amp;amp;fn=XUS29543666file1%2Epdf)  
+
+Prototyping  
+_The creation of a working model of a system or interface._
+
+*   [Design Better And Faster With Rapid Prototyping](http://www.smashingmagazine.com/2010/06/design-better-faster-with-rapid-prototyping/)  
+*   [Designer’s Toolkit: Prototyping Tools](http://www.cooper.com/prototyping-tools)  
+*   [Designing with Code](http://www.uxbooth.com/articles/designing-with-code/)  
+*   [Five Prevalent Pitfalls when Prototyping](http://www.uie.com/articles/pitfalls_prototyping/)  
+*   [Flavors of Prototypes](http://www.svpg.com/flavors-of-prototypes)  
+*   [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860#.jycn9ioad)  
+*   [The Skeptic’s Guide To Low-Fidelity Prototyping](http://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)  
+*   [Using prototypes in user research](https://userresearch.blog.gov.uk/2014/08/27/using-prototypes-in-user-research/)  
+
+Scenarios  
+_Descriptions of how a specific user accomplishes their goal, with regards to an existing or yet-to-be system._
+
+*   [Create Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)  
+*   [Context-Rich Scenarios Make UX Projects Manageable](http://www.uie.com/articles/ux_projects_scenarios/)  
+*   [Tell me the story: the unifying role of scenarios in conceptual design](http://www.humanfactors.com/downloads/apr04.asp)  
+
+Site Maps  
+_Graphical or textual representation of the structure of a website._
+
+*   [Is the Sitemap Losing Its Client-Facing Steam?](http://uxmag.com/articles/is-the-sitemap-losing-its-client-facing-steam)  
+*   [UX 101: The Site Map](http://viget.com/inspire/ux-101-the-site-map)  
+
+Sketching  
+_A means to explore ideas and iterate on concepts quickly and easily._
+
+*   [User interface sketching tips part 1](http://ui-patterns.com/blog/User-interface-sketching-tips-part-1)  
+*   [Wireframe 101: Sketch First, Wireframe Later](http://maryshaw.net/wireframe-101-sketch-first-wireframe-later/)  
+
+Storyboards  
+_A sequence of images or drawings representing a specific period of time._
+
+*   [Storyboarding a user experience](http://www.visualbloke.com/NUIVIGPage.html)  
+*   [Storyboards and Startups](http://www.akersarchitecturalrendering.com/blog/2010/3/14/storyboards-and-startups-how-sketching-can-help-entrepreneur.html)  
+*   [Telling Your Website's Story with Sketchboarding](http://www.uxbooth.com/blog/telling-your-websites-story-with-sketchboarding/)  
+*   [The 8 Steps To Creating A Great Storyboard](http://www.fastcodesign.com/1672917/the-8-steps-to-creating-a-great-storyboard/)  
+
+Wireflows  
+_A combination of process flows and wireframes._
+
+*   [Page Level Wireflows](http://wireframes.linowski.ca/2009/02/page-level-wireflows/)  
+*   [State Level Wireflows and Transitions](http://wireframes.linowski.ca/2009/02/state-level-wireflows-and-transitions/)  
+
+Wireframes  
+_Drawings of individual screens that represent major content and navigation elements._
+
+*   [Priority Guides: A Content-First Alternative to Wireframes](http://alistapart.com/article/priority-guides-a-content-first-alternative-to-wireframes)  
+*   [Storyboarding a user experience](http://www.visualbloke.com/NUIVIGPage.html)  
+*   [Real Wireframes Get Real Results](http://boxesandarrows.com/real-wireframes-get-real-results/)  
+*   [Ultimate Guide to Website Wireframing](http://sixrevisions.com/user-interface/website-wireframing/)  
+
+</details>
+
+<details>
   <summary>What are the Essentials of Effective Visual Communication?</summary>
 
 Color  
@@ -617,67 +558,7 @@ _The design of typefaces, and the way type is selected and arranged._
 </details>
 
 <details>
-  <summary>How to Design for Mobile and Multi-device Usage?</summary>
-
-Content Inventories  
-_Identifying and classifying the content in an existing product or system._
-
-*   [How to Conduct A Content Audit](http://uxmastery.com/how-to-conduct-a-content-audit/)  
-*   [Tips for laying out a responsive site](http://jamie-plouff.tumblr.com/post/103060444705/tips-for-laying-out-a-responsive-site)  
-*   [Tools for the UX Architect: Content Inventory](http://blogs.captechconsulting.com/blog/brendon-cornwell/tools-the-ux-architect-content-inventory)  
-
-Content Prioritization  
-_Determining the relative value of content in relation to its audience._
-
-*   [Devising a Strategy for Responsive Design](https://www.uie.com/articles/strategy_for_responsive_design/)  
-*   [Responsive-Ready Content](http://sarawb.com/2012/03/07/content-strategy-responsive-design/)  
-*   [The case for responsive web content: it's all about the users](http://www.creativebloq.com/mobile/case-responsive-web-content-its-all-about-users-7126217)  
-
-Designing for Touch  
-_How to make applications and website touch optimized._
-
-*   [Design for Fingers, Touch, and People, Part 3.](http://www.uxmatters.com/mt/archives/2017/07/design-for-fingers-touch-and-people-part-3.php)
-*   [Hover is dead. Long live hover.](https://medium.com/instacart-design/hover-is-dead-long-live-hover-37a89d3795df#.26ua6m3ux)  
-*   [Responsive Navigation: Optimizing for Touch Across Devices](http://www.lukew.com/ff/entry.asp?1649)  
-*   [The Pursuit of Tappiness](http://uxmag.com/articles/the-pursuit-of-tappiness)  
-*   [The Cost of a Touch](http://uxmag.com/articles/the-cost-of-a-touch)  
-*   [The Thumb Zone: Designing For Mobile Users](https://www.smashingmagazine.com/2016/09/the-thumb-zone-designing-for-mobile-users/)  
-*   [Touch interaction design (Windows Store apps)](http://msdn.microsoft.com/en-ca/library/windows/apps/hh465415.aspx)  
-
-Mobile and Multi-device Web Design  
-_How to more effectively design and build for mobile and multi-device usage._
-
-*   [Design for Every Screen](http://shoobe01.blogspot.ca/2011/11/design-for-every-screen.html)  
-*   [Designing Exceptional Mobile Experiences](http://uxmag.com/articles/designing-exceptional-mobile-experiences)  
-*   [Eight Tips to Make Your First Mobile Design a Success](http://www.peachpit.com/articles/article.aspx?p=1846581)  
-*   [Mobile first: Insights from going mobile only ](http://blog.invisionapp.com/mobile-first-mobile-only/)
-*   [Framework for Designing for Multiple Devices](http://uxmag.com/articles/framework-for-designing-for-multiple-devices)  
-*   [The Hamburger Menu Doesn’t Work](http://jamesarcher.me/hamburger-menu)  
-*   [Think Again: Assumptions About Mobile To Reconsider](http://mobile.smashingmagazine.com/2013/01/18/assumptions-about-mobile-to-reconsider/)  
-*   [Tools for Mobile UX Design](http://www.uxmatters.com/mt/archives/2013/06/tools-for-mobile-ux-design.php)  
-
-Responsive HTML Frameworks  
-_HTML frameworks that support responsive web design._
-
-*   [Kube CSS Framework](http://imperavi.com/kube/)  
-*   [(Twitter) Bootstrap](http://getbootstrap.com/)  
-*   [Zurb Foundation](http://foundation.zurb.com/)  
-
-Responsive Web Design  
-_A technique where individual web pages automatically adjust to various screen sizes._
-
-*   [9 responsive design mistakes you don’t want to make](http://thenextweb.com/dd/2015/10/28/9-responsive-design-mistakes-you-dont-want-to-make/)
-*   [Beginner's Guide to Responsive Web Design](http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design)  
-*   [Design Process In The Responsive Age](http://uxdesign.smashingmagazine.com/2012/05/30/design-process-responsive-age/)  
-*   [Responsive Strategy](http://bradfrost.com/blog/post/responsive-strategy/)
-*   [Responsive Web Design](http://webdesign.tutsplus.com/articles/responsive-web-design--webdesign-15155)
-*   [Responsive Web Design Patterns](https://bradfrost.github.io/this-is-responsive/patterns.html)
-*   [The opportunities and challenges of responsive design](http://www.webdesignerdepot.com/2012/11/the-opportunities-and-challenges-of-responsive-design/)  
-
-</details>
-
-<details>
-  <summary>How to Conduct a Usability Inspection?</summary>
+  <summary>How to Conduct a User Interface Inspection? </summary>
 
 Cognitive Walkthrough  
 _A step-by-step evaluation of a system, from the viewpoint of a specific type of user._
