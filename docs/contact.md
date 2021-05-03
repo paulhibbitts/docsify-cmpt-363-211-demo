@@ -1,4 +1,4 @@
-# Contact
+# Course Facilitators
 
 ## Course Instructor  
 Some Name  

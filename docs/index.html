@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Docsify Open Course Starter Kit</title>
+    <title>CMPT 363-211</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="description" content="Docsify Open Course Starter Kit">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
@@ -72,7 +72,7 @@
         // Link colour and text decoration to match visual styling of Canvas LMS
         // --link-color: #008EE2;
         // --link-text-decoration: none;
-        
+
         --pagination-title-color: #0B87DA;
 
       }
@@ -99,7 +99,7 @@
         window.$docsify = {
             // GENERAL SETTINGS
             // -----------------------------------------------------------------
-            name              : 'Docsify Open Course Starter Kit',
+            name              : 'CMPT 363-211',
             homepage          : 'home.md',
             loadSidebar       : 'sidebar.md',
             loadNavbar        : !(getParameterByName('embedded') === 'true'),
@@ -172,6 +172,10 @@
       if (!(getParameterByName('embedded') === 'true')) {
           document.write('<script src="https://unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"><\/script>');
       }
+    </script>
+
+    <script>
+    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
     </script>
 
 </body>
