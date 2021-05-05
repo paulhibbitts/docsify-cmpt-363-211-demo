@@ -1,15 +1,10 @@
-![Usability Test](assets/images/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg ':class=banner-image')
+![Prototype Drawings](assets/images/amelie-mourichon-YHNOwnrDzjY-unsplash.jpg ':class=banner-image')
 
-# Module Title
+# Instructor Design Reviews
 
-## Content Header
-Module content here.
+Instructor design reviews, no regularly scheduled Blackboard Collaborate sessions or online office hours.
 
-## Content Header
-Module content here.
+Zoom group meetings between 12:00pm and 4:00pm PT on Mar 30th, 31st and April 1st.
 
-## Content Header  
-Module content here.
-
-## Content Header
-Module content here.
+### Suggested Readings  
+[How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)  

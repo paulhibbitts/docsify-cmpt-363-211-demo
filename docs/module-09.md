@@ -1,15 +1,10 @@
-![Usability Test](assets/images/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg ':class=banner-image')
+![Sketchpad](assets/images/4328394839_e632f7c98d_b.jpg ':class=banner-image')
 
-# Module Title
+# Instructor Design Scenarios and Storyboard Mockups Meetings
 
-## Content Header
-Module content here.
+Instructor design scenarios and storyboard mockups meetings, no regularly scheduled Blackboard Collaborate sessions.
 
-## Content Header
-Module content here.
+Zoom group meetings between 12:00pm and 4:00pm PT on Mar 9th, 10th and 11th.
 
-## Content Header  
-Module content here.
-
-## Content Header
-Module content here.
+## Suggested Readings  
+[How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)  

@@ -3,92 +3,92 @@
 ## [A](#a) | B | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | O | [P](#p) | Q | R | [S](#s) | [T](#t) | [U](#u) | [V](#v) | W | X | Y | Z  
 
 ### A
-[Accessibility](../home/week-11)  
-[Agile UX](../home/week-01)  
+[Accessibility](module-11)  
+[Agile UX](module-01)  
 
 ### C
-[Color](../home/week-11)  
-[Conceptual Models](../home/week-08)  
-[Contextual Inquiry](../home/week-07)  
+[Color](module-11)  
+[Conceptual Models](module-08)  
+[Contextual Inquiry](module-07)  
 
 ### D
-[Design Ethics](../home/week-01)  
-[Designing for Touch](../home/week-02)  
-[Design Scenarios (also called Task Examples)](../home/week-05)  
-[Design Thinking](../home/week-01)  
-[Discovery Research](../home/week-07)  
+[Design Ethics](module-01)  
+[Designing for Touch](module-02)  
+[Design Scenarios (also called Task Examples)](module-05)  
+[Design Thinking](module-01)  
+[Discovery Research](module-07)  
 
 ### E
-[Emotional Design](../home/week-08)  
-[Empathy Map](../home/week-07)  
+[Emotional Design](module-08)  
+[Empathy Map](module-07)  
 
 ### F
-[Fitts’s Law](../home/week-02)  
-[Five Dimensions of HCI](../home/week-02)  
-[Five Whys](../home/week-07)  
+[Fitts’s Law](module-02)  
+[Five Dimensions of HCI](module-02)  
+[Five Whys](module-07)  
 
 ### G
-[Grids](../home/week-11)  
+[Grids](module-11)  
 
 ### H
-[HCI Laws](../home/week-03)  
-[Heuristic Evaluations](../home/week-04)  
-[Hick’s Law](../home/week-03)  
-[Hypothesis](../home/week-01)  
+[HCI Laws](module-03)  
+[Heuristic Evaluations](module-04)  
+[Hick’s Law](module-03)  
+[Hypothesis](module-01)  
 
 ### I
-[Icons](../home/week-10)  
-[Inclusive Design](../home/week-08)   
-[Interaction Design](../home/week-02)  
-[Interviews](../home/week-07)  
+[Icons](module-10)  
+[Inclusive Design](module-08)   
+[Interaction Design](module-02)  
+[Interviews](module-07)  
 
 ### J
-[Jakob Nielsen’s Heuristics](../home/week-03)  
-[Jobs to Be Done Framework](../home/week-07)  
-[Job Stories](../home/week-07)       
+[Jakob Nielsen’s Heuristics](module-03)  
+[Jobs to Be Done Framework](module-07)  
+[Job Stories](module-07)       
 
 ### L
-[Layout](../home/week-10)  
-[Lean UX](../home/week-01)  
+[Layout](module-10)  
+[Lean UX](module-01)  
 
 ### M
-[Microsoft Product Reaction Cards](../home/week-01)  
-[Miller’s Law](../home/week-02)  
-[Mobile Design](../home/week-02)  
-[Multi-device Design](../home/week-02)  
+[Microsoft Product Reaction Cards](module-01)  
+[Miller’s Law](module-02)  
+[Mobile Design](module-02)  
+[Multi-device Design](module-02)  
 
 ### N
-[Norman’s Design Principles](../home/week-08)
+[Norman’s Design Principles](module-08)
 
 ### P
-[Power Law of Practice](../home/week-02)  
-[Problem Statements](../home/week-01)  
-[Prototyping](../home/week-05)  
-[Proto-Personas](../home/week-07)  
+[Power Law of Practice](module-02)  
+[Problem Statements](module-01)  
+[Prototyping](module-05)  
+[Proto-Personas](module-07)  
 
 ### S
-[Scenario-based Design (and Task-Centered Design)](../home/week-05)  
-[Scenarios (also called Task Examples)](../home/week-05)  
-[Sketching](../home/week-05)
-[Software Design Processes](../home/week-01)  
-[Storyboards](../home/week-05)   
+[Scenario-based Design (and Task-Centered Design)](module-05)  
+[Scenarios (also called Task Examples)](module-05)  
+[Sketching](module-05)
+[Software Design Processes](module-01)  
+[Storyboards](module-05)   
 
 ### T
-[Task Analysis](../home/week-01)  
-[Typography](../home/week-11)  
+[Task Analysis](module-01)  
+[Typography](module-11)  
 
 ### U
-[Usability](../home/week-01)  
-[Usability Goals](../home/week-01)  
-[Usability Testing](../home/week-13)  
-[User-centered Design (UCD)](../home/week-01)  
-[User Experience Design](../home/week-01)  
-[User Research](../home/week-07)   
-[User Research Analysis](../home/week-07)   
-[User Stories](../home/week-07)  
-[UX Goals](../home/week-01)  
+[Usability](module-01)  
+[Usability Goals](module-01)  
+[Usability Testing](module-13)  
+[User-centered Design (UCD)](module-01)  
+[User Experience Design](module-01)  
+[User Research](module-07)   
+[User Research Analysis](module-07)   
+[User Stories](module-07)  
+[UX Goals](module-01)  
 
 ### V
-[Visual Design](../home/week-10)  
-[Visual Design Principles (CRAP)](../home/week-10)  
-[Visual Hierarchy](../home/week-10)  
+[Visual Design](module-10)  
+[Visual Design Principles (CRAP)](module-10)  
+[Visual Hierarchy](module-10)  
