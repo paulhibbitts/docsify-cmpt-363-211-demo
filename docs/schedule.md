@@ -1,6 +1,6 @@
 # Schedule
 
-## :fas fa-calendar fa-fw: [Week 1 (Jan 11 - 17)](#)
+## :fas fa-calendar fa-fw: [Week 1 (Jan 11 - 17)](module-01)
 **Course overview/What is usability and user experience design?**  
 :fas fa-desktop fa-fw: Course Overview <span class='badge'> Tue Jan 12th 2:30pm PT</span>  
 :fas fa-desktop fa-fw: Weekly Review Quiz Tutorial <span class='badge'> Fri Jan 15th 2:30pm PT</span>  
@@ -9,7 +9,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 1](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Jan 14th 11:59pm PT</span>  
 :fas fa-keyboard fa-fw: [Week 1 Review Quiz (Practice)](https://canvas.sfu.ca/courses/61465/assignments/610789) <span class='badge'> Sun Jan 17th 11:59pm PT</span>  
 
-## :fas fa-calendar fa-fw: [Week 2 (Jan 18 - 24)](#)
+## :fas fa-calendar fa-fw: [Week 2 (Jan 18 - 24)](module-02)
 **What is the practice of multi-device interaction design?**   
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> Tue Jan 19th 2:30pm PT</span>    
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> Fri Jan 22nd 2:30pm PT</span>    
@@ -19,7 +19,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 2]() <span class='badge'> Thu Jan 21st 11:59pm PT</span>    
 :fas fa-keyboard fa-fw: [Week 2 Review Quiz (Practice)]() <span class='badge'> Sun Jan 24th 11:59pm PT</span>    
 
-## :fas fa-calendar fa-fw: [Week 3 (Jan 25 - 31)](#)
+## :fas fa-calendar fa-fw: [Week 3 (Jan 25 - 31)](module-03)
 **How to conduct a user interface inspection?**   
 :fas fa-pen fa-fw: Individual Heuristic Inspection Assignment <span class='badge'> Mon Feb 8th 11:59pm PT</span>    
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> Tue Jan 26th 2:30pm PT</span>    
