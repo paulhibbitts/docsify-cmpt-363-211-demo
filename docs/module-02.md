@@ -1,6 +1,6 @@
 ![Multiple Mobile Devices](assets/images/16230041026_d438eb2482_k.jpg ':class=banner-image')
 
-# **What is the practice of multi-device interaction design?**
+# What is the practice of multi-device interaction design?
 
 ## One-Minute Summaries and Questions  
 [Interaction design: a guide for beginners](https://canvas.sfu.ca/courses/59869/assignments/583033) <span class='badge'>Thu Jan 21st 11:59pm PT</span>    
