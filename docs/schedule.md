@@ -31,11 +31,11 @@
 
 ## :fas fa-calendar fa-fw: [Week 4 (Feb 1 - 7)](#)
 **Special topic - heuristic evaluations**   
-[fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-04-1)  
-[fa="desktop"][/fa][plugin:page-inject](/211/online-sessions/week-04-2)  
-[fa="book"][/fa][plugin:page-inject](/211/weekly-readings/week-04-1?template=partials/embedlycardlinkonly)   
-[fa="keyboard-o"][/fa][One-minute Summaries for Week 4](https://canvas.sfu.ca/courses/61465/assignments) [badge label="Thu Feb 4th 11:59pm PT" url="https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20210204T235900&p1=256"][/badge]  
-[fa="keyboard-o"][/fa]No weekly review quiz  
+:fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> Tue Feb 2nd 2:30pm PT</span>    
+:fas fa-desktop fa-fw: Review and Discussion <span class='badge'> Fri Feb 5th 2:30pm PT</span>  
+:fas fa-book fa-fw: [Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
+:fas fa-keyboard fa-fw: [One-minute Summaries for Week 3]() <span class='badge'> Thu Feb 4th 11:59pm PT</span>    
+:fas fa-keyboard fa-fw: No weekly review quiz  
 
 ## [fa="calendar-o"][/fa]Week 5 (Feb 8 - 14)
 **[How to explore and describe possible design solutions?](https://canvas.sfu.ca/courses/61465/modules/items/1944101)**   
