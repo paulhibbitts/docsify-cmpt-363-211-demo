@@ -1,6 +1,6 @@
 ![Usability Test](assets/images/4642289926_7964e733d1_b.jpg ':class=banner-image')
 
-# **How to conduct a user interface inspection?**
+# How to conduct a user interface inspection?
 
 ## Assignments
 [Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/59869/assignments/583039) <span class='badge'> Mon Feb 8th 11:59pm PT</span>    
