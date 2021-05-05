@@ -38,14 +38,14 @@
 
 ### I
 [Icons](module-10)  
-[Inclusive Design](module-08)   
+[Inclusive Design](module-08)  
 [Interaction Design](module-02)  
 [Interviews](module-07)  
 
 ### J
 [Jakob Nielsen’s Heuristics](module-03)  
 [Jobs to Be Done Framework](module-07)  
-[Job Stories](module-07)       
+[Job Stories](module-07)    
 
 ### L
 [Layout](module-10)  
@@ -71,7 +71,7 @@
 [Scenarios (also called Task Examples)](module-05)  
 [Sketching](module-05)
 [Software Design Processes](module-01)  
-[Storyboards](module-05)   
+[Storyboards](module-05)  
 
 ### T
 [Task Analysis](module-01)  
@@ -83,8 +83,8 @@
 [Usability Testing](module-13)  
 [User-centered Design (UCD)](module-01)  
 [User Experience Design](module-01)  
-[User Research](module-07)   
-[User Research Analysis](module-07)   
+[User Research](module-07)  
+[User Research Analysis](module-07)  
 [User Stories](module-07)  
 [UX Goals](module-01)  
 

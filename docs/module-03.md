@@ -3,11 +3,11 @@
 # How to conduct a user interface inspection?
 
 ## Assignments
-[Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/59869/assignments/583039) <span class='badge'> Mon Feb 8th 11:59pm PT</span>    
+[Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/59869/assignments/583039) <span class='badge'> Mon Feb 8th 11:59pm PT</span>  
 
 ## One-Minute Summaries and Questions  
-[How to Use Heuristic Evaluations to Improve Product Designs](https://canvas.sfu.ca/courses/59869/assignments/583032) <span class='badge'>Thu Jan 28th 11:59pm PT</span>    
-[Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/59869/assignments/583035) <span class='badge'>Thu Jan 28th 11:59pm PT</span>    
+[How to Use Heuristic Evaluations to Improve Product Designs](https://canvas.sfu.ca/courses/59869/assignments/583032) <span class='badge'>Thu Jan 28th 11:59pm PT</span>  
+[Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/59869/assignments/583035) <span class='badge'>Thu Jan 28th 11:59pm PT</span>  
 
 ## Weekly Quiz
 [Week 3 Review Quiz](/211/lms-assignments/weekly-review-quizzes/week-03) <span class='badge'>Sun Jan 31st 11:59pm PT</span>  
@@ -34,19 +34,19 @@
 Cognitive Walkthrough  
 _A step-by-step evaluation of a system, from the viewpoint of a specific type of user._
 
-*   [Assessing usability with Cognitive Walkthrough](https://uxdesign.cc/assessing-interfaces-with-cognitive-walkthrough-9f92eae4321f)  
-*   [Cognitive Walkthrough: bare bones - quickie example](http://web.engr.oregonstate.edu/%7Eburnett/CS589HCI/CognitiveWalkBareBones.html)  
-*   [The Streamlined Cognitive Walkthrough Method (PDF)](http://dl.acm.org/citation.cfm?id=332456&dl=ACM&coll=DL&CFID=665649760&CFTOKEN=32197100)  
-*   [Usability Inspection: Cognitive Walkthrough](http://www.usabilityhome.com/CognWalk.htm)  
+*  [Assessing usability with Cognitive Walkthrough](https://uxdesign.cc/assessing-interfaces-with-cognitive-walkthrough-9f92eae4321f)  
+*  [Cognitive Walkthrough: bare bones - quickie example](http://web.engr.oregonstate.edu/%7Eburnett/CS589HCI/CognitiveWalkBareBones.html)  
+*  [The Streamlined Cognitive Walkthrough Method (PDF)](http://dl.acm.org/citation.cfm?id=332456&dl=ACM&coll=DL&CFID=665649760&CFTOKEN=32197100)  
+*  [Usability Inspection: Cognitive Walkthrough](http://www.usabilityhome.com/CognWalk.htm)  
 
 Heuristic Evaluations  
 _The evaluation of a user interface against a checklist of design rules or heuristics._
 
-*   [An Introduction To Heuristic Evaluation](http://usabilitygeek.com/heuristic-evaluation-introduction/)  
-*   [How to Conduct a Heuristic Evaluation](http://www.useit.com/papers/heuristic/heuristic_evaluation.html)  
-*   [How to run an heuristic evaluation](http://uxmastery.com/how-to-run-an-heuristic-evaluation/)  
-*   [Jakob Nielsen's 10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)  
-*   [Severity Ratings for Usability Problems](http://www.useit.com/papers/heuristic/severityrating.html)  
-*   [Applying ISO 9241-110 Dialogue Principles to Tablet Applications in Emergency Medical Services (PDF)](https://pdfs.semanticscholar.org/3d51/ab6549bbbb61dbd40e2062e13b057c37cdf3.pdf)  
-*   [Ergonomics of human-system interaction -- Part 110: Dialogue principles](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=38009)  
-*   [Usability Expert Reviews: Beyond Heuristic Evaluation](http://www.userfocus.co.uk/articles/expertreviews.html)  
+*  [An Introduction To Heuristic Evaluation](http://usabilitygeek.com/heuristic-evaluation-introduction/)  
+*  [How to Conduct a Heuristic Evaluation](http://www.useit.com/papers/heuristic/heuristic_evaluation.html)  
+*  [How to run an heuristic evaluation](http://uxmastery.com/how-to-run-an-heuristic-evaluation/)  
+*  [Jakob Nielsen's 10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/)  
+*  [Severity Ratings for Usability Problems](http://www.useit.com/papers/heuristic/severityrating.html)  
+*  [Applying ISO 9241-110 Dialogue Principles to Tablet Applications in Emergency Medical Services (PDF)](https://pdfs.semanticscholar.org/3d51/ab6549bbbb61dbd40e2062e13b057c37cdf3.pdf)  
+*  [Ergonomics of human-system interaction -- Part 110: Dialogue principles](http://www.iso.org/iso/home/store/catalogue_tc/catalogue_detail.htm?csnumber=38009)  
+*  [Usability Expert Reviews: Beyond Heuristic Evaluation](http://www.userfocus.co.uk/articles/expertreviews.html)  
