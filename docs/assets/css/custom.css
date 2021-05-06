@@ -15,7 +15,6 @@ body .markdown-section {
 }
 
 .markdown-section a:link, .markdown-section a:visited, .markdown-section a:hover, .markdown-section a:active {
-    color: #008EE2;
     text-decoration: none;
 }
 
@@ -25,11 +24,6 @@ body .markdown-section {
 
 .markdown-section .badge a {
     color: white!important;
-}
-
-.markdown-section h1 a, .markdown-section h2 a, .markdown-section h3 a, .markdown-section h4 a, .markdown-section h5, .markdown-section h6 a {
-    color: #333!important;
-    text-decoration: none;
 }
 
 .markdown-section .button {
