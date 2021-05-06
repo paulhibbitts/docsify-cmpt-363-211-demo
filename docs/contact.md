@@ -8,6 +8,8 @@
 </div>
 <div class="column">
 
+<br>
+
 ## Course Facilitators
 
 **Paul Hibbitts**  
