@@ -28,6 +28,7 @@ body .markdown-section {
 }
 
 .markdown-section h1 a, .markdown-section h2 a, .markdown-section h3 a, .markdown-section h4 a, .markdown-section h5, .markdown-section h6 a {
+    color: #333!important;
     text-decoration: none;
 }
 
