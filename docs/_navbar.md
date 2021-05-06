@@ -2,4 +2,4 @@
 * [Topics](topics.md)
 * [Resources](resources.md)
 * [UX Techniques Guide](ux-techniques-guide.md)
-* [Course Facilitators](contact.md)
+* [Contact Paul or TAs](contact.md)
