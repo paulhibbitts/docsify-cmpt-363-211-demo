@@ -13,34 +13,44 @@
 **What is the practice of multi-device interaction design?**  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> Tue Jan 19th 2:30pm PT</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> Fri Jan 22nd 2:30pm PT</span>  
-:fas fa-book fa-fw: [Interaction design: a guide for beginners (19 minute read)  
-:fas fa-book fa-fw: [Five HCI Laws for User Experience Design]() (4 minute read)  
-:fas fa-book fa-fw: [Touch Targets on Touchscreens]() (11 minute read)  
-:fas fa-keyboard fa-fw: [One-minute Summaries for Week 2]() <span class='badge'> Thu Jan 21st 11:59pm PT</span>  
-:fas fa-keyboard fa-fw: [Week 2 Review Quiz (Practice)]() <span class='badge'> Sun Jan 24th 11:59pm PT</span>  
+:fas fa-book fa-fw: [Interaction design: a guide for beginners (19 minute read)](https://uxplanet.org/interaction-design-a-guide-for-beginners-32ff2364b53f)  
+:fas fa-book fa-fw: [Five HCI Laws for User Experience Design](https://measuringu.com/hci-laws/) (4 minute read)  
+:fas fa-book fa-fw: [Touch Targets on Touchscreens](https://www.nngroup.com/articles/touch-target-size/) (11 minute read)  
+:fas fa-keyboard fa-fw: [One-minute Summaries for Week 2](https://canvas.sfu.ca/courses/59869/assignments) <span class='badge'> Thu Jan 21st 11:59pm PT</span>  
+:fas fa-keyboard fa-fw: [Week 2 Review Quiz (Practice)](https://canvas.sfu.ca/courses/59869/assignments/583041) <span class='badge'> Sun Jan 24th 11:59pm PT</span>  
 
 ## :fas fa-calendar fa-fw: [Week 3 (Jan 25 - 31)](module-03)
 **How to conduct a user interface inspection?**  
 :fas fa-pen fa-fw: Individual Heuristic Inspection Assignment <span class='badge'> Mon Feb 8th 11:59pm PT</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> Tue Jan 26th 2:30pm PT</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> Fri Jan 29th 2:30pm PT</span>  
-:fas fa-book fa-fw: [How to Use Heuristic Evaluations to Improve Product Designs]() (8 minute read)  
-:fas fa-book fa-fw: [Severity Ratings for Usability Problems]() (5 minute read)  
-:fas fa-keyboard fa-fw: [One-minute Summaries for Week 3]() <span class='badge'> Thu Jan 28th 11:59pm PT</span>  
-:fas fa-keyboard fa-fw: [Week 3 Review Quiz]() <span class='badge'> Sun Jan 31st 11:59pm PT</span>  
+:fas fa-book fa-fw: [How to Use Heuristic Evaluations to Improve Product Designs (8 minute read)](https://xd.adobe.com/ideas/process/user-testing/how-to-heuristic-evaluation-analysis-ux-design/)  
+:fas fa-book fa-fw: [Severity Ratings for Usability Problems (5 minute read)](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)   
+:fas fa-keyboard fa-fw: [One-minute Summaries for Week 3](https://canvas.sfu.ca/courses/59869/assignments) <span class='badge'> Thu Jan 28th 11:59pm PT</span>  
+:fas fa-keyboard fa-fw: [Week 3 Review Quiz](https://canvas.sfu.ca/courses/59869/assignments/583042) <span class='badge'> Sun Jan 31st 11:59pm PT</span>  
 
 ## :fas fa-calendar fa-fw: [Week 4 (Feb 1 - 7)](module-04)
 **Special topic - heuristic evaluations**  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> Tue Feb 2nd 2:30pm PT</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> Fri Feb 5th 2:30pm PT</span>  
 :fas fa-book fa-fw: [Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
-:fas fa-keyboard fa-fw: [One-minute Summaries for Week 3]() <span class='badge'> Thu Feb 4th 11:59pm PT</span>  
+:fas fa-keyboard fa-fw: [One-minute Summaries for Week 4](https://canvas.sfu.ca/courses/59869/assignments) <span class='badge'> Thu Feb 4th 11:59pm PT</span>  
 :fas fa-keyboard fa-fw: No weekly review quiz  
 
-## :fas fa-calendar fa-fw: [Week 6 (Feb 15 - 21)](../home/week-06)
+## :fas fa-calendar fa-fw: [Week 5 (Feb 8 - 14)](module-05)
+**How to explore and describe possible design solutions?**    
+:fas fa-check fa-fw: [Individual Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/59869/assignments/583039) <span class='badge'> Mon Feb 8th 11:59pm PT</span>    
+:fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> Tue Feb 9th 2:30pm PT</span>  
+:fas fa-desktop fa-fw: Review and Discussion <span class='badge'> Fri Feb 12th 2:30pm PT</span>  
+:fas fa-book fa-fw: [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (12 minute read)](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860)  
+:fas fa-book fa-fw: [Chapter 2: Getting to Know Users and Their Tasks (22 minute read)](https://courses.cs.washington.edu/courses/cse440/08au/readings_files/lewis-reiman/chap-2.v-1.html)  
+:fas fa-keyboard fa-fw: [One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/59869/assignments) <span class='badge'> Thu Feb 4th 11:59pm PT</span>    
+:fas fa-keyboard fa-fw: [Week 5 Review Quiz](https://canvas.sfu.ca/courses/59869/assignments/583048) <span class='badge'> Sun Feb 14th 11:59pm PT</span>  
+
+## :fas fa-calendar fa-fw: [Week 6 (Feb 15 - 21)](module-06)
 **Reading week, no classes**  
 
-## :fas fa-calendar fa-fw: [Week 7 (Feb 22 - 28)](../home/week-07)
+## :fas fa-calendar fa-fw: [Week 7 (Feb 22 - 28)](module-07)
 **How to understand and communicate people's needs and behaviors?**  
 :fas fa-pen fa-fw: [Design Scenarios and Storyboard Mockups](https://canvas.sfu.ca/courses/59869/assignments/583038) <span class='badge'> Mon Mar 15th 11:59pm PT</span>  
 :fas fa-folder fa-fw: [Team Member Evaluation](https://www.surveymonkey.ca/r/WFTBBDX) <span class='badge'> Tue Mar 16th 11:59pm PT</span>  
@@ -51,7 +61,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 7](https://canvas.sfu.ca/courses/59869/assignments) <span class='badge'> Thu Feb 25th 11:59pm PT</span>  
 :fas fa-keyboard fa-fw: [Week 7 Review Quiz](https://canvas.sfu.ca/courses/59869/assignments/583049) <span class='badge'> Sun Feb 28th 11:59pm PT </span>
 
-## :fas fa-calendar fa-fw: [Week 8 (Mar 1 - 7)](module-01)
+## :fas fa-calendar fa-fw: [Week 8 (Mar 1 - 7)](module-08)
 **How to bridge the gap between the problem space and design space?**  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> Tue Mar 2nd 2:30pm PT</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> Fri Mar 5th 2:30pm PT</span>  
@@ -60,7 +70,6 @@
 :fas fa-book fa-fw: [Not Just Pretty: Building Emotion Into Your Websites (15 minute read)](https://www.smashingmagazine.com/2012/04/building-emotion-into-your-websites/)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 8](https://canvas.sfu.ca/courses/59869/assignments) <span class='badge'>Thu Mar 4th 11:59pm PT</span>  
 :fas fa-keyboard fa-fw: [Week 8 Review Quiz](https://canvas.sfu.ca/courses/59869/assignments/583050) <span class='badge'>Sun Mar 7th 11:59pm PT</span>
-
 
 ## :fas fa-calendar fa-fw: [Week 9 (Mar 8 - 14)](module-09)
 **Instructor design scenarios and storyboard mockups meetings**  
@@ -102,7 +111,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 :fas fa-book fa-fw: [Usability Testing Guide (14 minute read)](https://boxesandarrows.com/usability-testing-guide/)  
 :fas fa-book fa-fw: [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (10 minute read)](https://www.nngroup.com/articles/better-usability-tasks/)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 13](https://canvas.sfu.ca/courses/59869/assignments) <span class='badge'>Fri Apr 9th 11:59pm PT</span>  
-:fas fa-keyboard fa-fw: [Week 13 Review Quiz](/211/lms-assignments/weekly-review-quizzes/week-13) <span class='badge'>Sun Apr 11th 11:59pm PT</span>  
+:fas fa-keyboard fa-fw: [Week 13 Review Quiz](https://canvas.sfu.ca/courses/59869/assignments/583045) <span class='badge'>Sun Apr 11th 11:59pm PT</span>  
 
 ## :fas fa-calendar fa-fw: [Week 14 (Apr 12 - 16)](module-14)
 **Course wrap-up**  

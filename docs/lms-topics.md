@@ -1,57 +1,94 @@
 # Topics
 
-### [A](#a) | B | C | [D](#d) | E | [F](#f) | G | [H](#h) | I | [J](#j) | [K](#k) | [L](#l) | [M](#m) | N | O | [P](#p) | Q | R | [S](#s) | [T](#t) | [U](#u) | [V](#v) | W | X | Y | Z  
+## [A](#a) | B | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | O | [P](#p) | Q | R | [S](#s) | [T](#t) | [U](#u) | [V](#v) | W | X | Y | Z  
 
 ### A
-[Agile UX](https://canvas.sfu.ca/courses/44038/modules/items/1096966)
+[Accessibility](https://canvas.sfu.ca/courses/59869/modules/items/1858693)  
+[Agile UX](https://canvas.sfu.ca/courses/59869/modules/items/1858684)  
+
+### C
+[Color](https://canvas.sfu.ca/courses/59869/modules/items/1858693)  
+[Conceptual Models](https://canvas.sfu.ca/courses/59869/modules/items/1858690)  
+[Contextual Inquiry](https://canvas.sfu.ca/courses/59869/modules/items/1858689)  
 
 ### D
-[Design Ethics](https://canvas.sfu.ca/courses/44038/modules/items/1096966)  
-[Design Thinking](https://canvas.sfu.ca/courses/44038/modules/items/1096965)  
+[Design Ethics](https://canvas.sfu.ca/courses/59869/modules/items/1858684)  
+[Designing for Touch](https://canvas.sfu.ca/courses/59869/modules/items/1858685)  
+[Design Scenarios (also called Task Examples)](https://canvas.sfu.ca/courses/59869/modules/items/1858688)  
+[Design Thinking](https://canvas.sfu.ca/courses/59869/modules/items/1858684)  
+[Discovery Research](https://canvas.sfu.ca/courses/59869/modules/items/1858689)  
+
+### E
+[Emotional Design](https://canvas.sfu.ca/courses/59869/modules/items/1858690)  
+[Empathy Map](https://canvas.sfu.ca/courses/59869/modules/items/1858689)  
 
 ### F
-[5-Second Test](https://canvas.sfu.ca/courses/44038/modules/items/1096967)   
-[Five Whys](https://canvas.sfu.ca/courses/44038/modules/items/1096965)  
+[Fitts’s Law](https://canvas.sfu.ca/courses/59869/modules/items/1858685)  
+[Five Dimensions of HCI](https://canvas.sfu.ca/courses/59869/modules/items/1858685)  
+[Five Whys](https://canvas.sfu.ca/courses/59869/modules/items/1858689)  
+
+### G
+[Grids](https://canvas.sfu.ca/courses/59869/modules/items/1858693)  
 
 ### H
-[Hypothesis](https://canvas.sfu.ca/courses/44038/modules/items/1096966)  
+[HCI Laws](https://canvas.sfu.ca/courses/59869/modules/items/1858686)  
+[Heuristic Evaluations](https://canvas.sfu.ca/courses/59869/modules/items/1858687)  
+[Hick’s Law](https://canvas.sfu.ca/courses/59869/modules/items/1858686)  
+[Hypothesis](https://canvas.sfu.ca/courses/59869/modules/items/1858684)  
+
+### I
+[Icons](https://canvas.sfu.ca/courses/59869/modules/items/1858692)  
+[Inclusive Design](https://canvas.sfu.ca/courses/59869/modules/items/1858690)  
+[Interaction Design](https://canvas.sfu.ca/courses/59869/modules/items/1858685)  
+[Interviews](https://canvas.sfu.ca/courses/59869/modules/items/1858689)  
 
 ### J
-[Journey Maps](https://canvas.sfu.ca/courses/44038/modules/items/1096970)  
-
-### K
-[Kano Model](https://canvas.sfu.ca/courses/44038/modules/items/1096970)  
+[Jakob Nielsen’s Heuristics](https://canvas.sfu.ca/courses/59869/modules/items/1858686)  
+[Jobs to Be Done Framework](https://canvas.sfu.ca/courses/59869/modules/items/1858689)  
+[Job Stories](https://canvas.sfu.ca/courses/59869/modules/items/1858689)    
 
 ### L
-[Lean UX](https://canvas.sfu.ca/courses/44038/modules/items/1096966)  
+[Layout](https://canvas.sfu.ca/courses/59869/modules/items/1858692)  
+[Lean UX](https://canvas.sfu.ca/courses/59869/modules/items/1858684)  
 
 ### M
-[Microsoft Product Reaction Cards](https://canvas.sfu.ca/courses/44038/modules/items/1096966)  
+[Microsoft Product Reaction Cards](https://canvas.sfu.ca/courses/59869/modules/items/1858684)  
+[Miller’s Law](https://canvas.sfu.ca/courses/59869/modules/items/1858685)  
+[Mobile Design](https://canvas.sfu.ca/courses/59869/modules/items/1858685)  
+[Multi-device Design](https://canvas.sfu.ca/courses/59869/modules/items/1858685)  
+
+### N
+[Norman’s Design Principles](https://canvas.sfu.ca/courses/59869/modules/items/1858690)
 
 ### P
-[Problem Statement](https://canvas.sfu.ca/courses/44038/modules/items/1096970)  
-[Product Design Principles](https://canvas.sfu.ca/courses/44038/modules/items/1096970)  
-[Prototyping](https://canvas.sfu.ca/courses/44038/modules/items/1096967)   
+[Power Law of Practice](https://canvas.sfu.ca/courses/59869/modules/items/1858685)  
+[Problem Statements](https://canvas.sfu.ca/courses/59869/modules/items/1858684)  
+[Prototyping](https://canvas.sfu.ca/courses/59869/modules/items/1858688)  
+[Proto-Personas](https://canvas.sfu.ca/courses/59869/modules/items/1858689)  
 
 ### S
-[Scenario-based Design (and Task-Centered Design)](https://canvas.sfu.ca/courses/44038/modules/items/1096967)  
-[Scenarios (and Design Scenarios)](https://canvas.sfu.ca/courses/44038/modules/items/1096967)  
-[Sketching](https://canvas.sfu.ca/courses/44038/modules/items/1096967)
-[Social Design](https://canvas.sfu.ca/courses/44038/modules/items/1096965)  
-[Software Design Processes](https://canvas.sfu.ca/courses/44038/modules/items/1096966)  
-[Storyboards](https://canvas.sfu.ca/courses/44038/modules/items/1096967)  
+[Scenario-based Design (and Task-Centered Design)](https://canvas.sfu.ca/courses/59869/modules/items/1858688)  
+[Scenarios (also called Task Examples)](https://canvas.sfu.ca/courses/59869/modules/items/1858688)  
+[Sketching](https://canvas.sfu.ca/courses/59869/modules/items/1858688)
+[Software Design Processes](https://canvas.sfu.ca/courses/59869/modules/items/1858684)  
+[Storyboards](https://canvas.sfu.ca/courses/59869/modules/items/1858688)  
 
 ### T
-[Task Analysis](https://canvas.sfu.ca/courses/44038/modules/items/1096966)  
+[Task Analysis](https://canvas.sfu.ca/courses/59869/modules/items/1858684)  
+[Typography](https://canvas.sfu.ca/courses/59869/modules/items/1858693)  
 
 ### U
-[Usability](https://canvas.sfu.ca/courses/44038/modules/items/1096965)  
-[Usability Goals](https://canvas.sfu.ca/courses/44038/modules/items/1096966)  
-[Usability Testing](module-05)   
-[User-centered Design (UCD)](https://canvas.sfu.ca/courses/44038/modules/items/1096965)  
-[User Experience Design](https://canvas.sfu.ca/courses/44038/modules/items/1096966)   
-[UX Goals](https://canvas.sfu.ca/courses/44038/modules/items/1096966)  
-[UX Strategy](https://canvas.sfu.ca/courses/44038/modules/items/1096970)  
+[Usability](https://canvas.sfu.ca/courses/59869/modules/items/1858684)  
+[Usability Goals](https://canvas.sfu.ca/courses/59869/modules/items/1858684)  
+[Usability Testing](https://canvas.sfu.ca/courses/59869/modules/items/1858695)  
+[User-centered Design (UCD)](https://canvas.sfu.ca/courses/59869/modules/items/1858684)  
+[User Experience Design](https://canvas.sfu.ca/courses/59869/modules/items/1858684)  
+[User Research](https://canvas.sfu.ca/courses/59869/modules/items/1858689)  
+[User Research Analysis](https://canvas.sfu.ca/courses/59869/modules/items/1858689)  
+[User Stories](https://canvas.sfu.ca/courses/59869/modules/items/1858689)  
+[UX Goals](https://canvas.sfu.ca/courses/59869/modules/items/1858684)  
 
 ### V
-[Value Proposition](https://canvas.sfu.ca/courses/44038/modules/items/1096970)  
+[Visual Design](https://canvas.sfu.ca/courses/59869/modules/items/1858692)  
+[Visual Design Principles (CRAP)](https://canvas.sfu.ca/courses/59869/modules/items/1858692)  
+[Visual Hierarchy](https://canvas.sfu.ca/courses/59869/modules/items/1858692)  
