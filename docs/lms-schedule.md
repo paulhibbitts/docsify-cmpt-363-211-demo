@@ -46,7 +46,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/59869/assignments) <span class='badge'> Thu Feb 4th 11:59pm PT</span>    
 :fas fa-keyboard fa-fw: [Week 5 Review Quiz](https://canvas.sfu.ca/courses/59869/assignments/583048) <span class='badge'> Sun Feb 14th 11:59pm PT</span>  
 
-## :fas fa-calendar fa-fw: Week 6 (Feb 15 - 21)
+## :fas fa-calendar fa-fw:Week 6 (Feb 15 - 21)
 **Reading week, no classes**  
 
 ## :fas fa-calendar fa-fw: [Week 7 (Feb 22 - 28)](https://canvas.sfu.ca/courses/59869/modules/items/1858689)
