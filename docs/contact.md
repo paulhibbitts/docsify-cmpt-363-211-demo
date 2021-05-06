@@ -3,10 +3,10 @@
 <div class="row">
 <div class="column">
 
-<iframe id="livechat" style="margin-top: 22px; border: 1px #ffffff none;" src="https://hibbitts.rocket.chat/livechat?mode=popout" width="100%" height="610px" name="myiFrame" allowfullscreen="allowfullscreen"></iframe>
+<iframe id="livechat" style="margin-top: 18px; border: 1px #ffffff none;" src="https://hibbitts.rocket.chat/livechat?mode=popout" width="100%" height="610px" name="myiFrame" allowfullscreen="allowfullscreen"></iframe>
 
 </div>
-<div class="column" style="margin-top: 28px">
+<div class="column" style="margin-top: 24px">
 
 ## Course Facilitators
 
