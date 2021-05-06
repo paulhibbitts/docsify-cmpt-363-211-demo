@@ -8,6 +8,8 @@
 </div>
 <div class="column">
 
+## Course Facilitators
+
 **Paul Hibbitts**  
 :fas fa-envelope fa-fw: [paul_hibbitts@sfu.ca](#)  
 :fas fa-comment fa-fw: PaulHibbitts on [CSSS @ SFU Discord](https://t.co/GZQUc6iVjS)  
