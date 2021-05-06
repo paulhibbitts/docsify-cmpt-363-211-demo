@@ -17,15 +17,3 @@ body .markdown-section {
 .markdown-section a:link, .markdown-section a:visited, .markdown-section a:hover, .markdown-section a:active {
     text-decoration: none;
 }
-
-.markdown-section .button {
-  color: white!important;
-}
-
-.markdown-section .badge a {
-    color: white!important;
-}
-
-.markdown-section .button {
-  background-color: #008EE2;
-}
