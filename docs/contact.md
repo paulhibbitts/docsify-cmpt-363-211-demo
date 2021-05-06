@@ -1,4 +1,12 @@
-# Course Facilitators
+# Contact Paul or TAs
+
+<div class="row">
+<div class="column">
+
+<iframe id="livechat" style="margin-top: 22px; border: 1px #ffffff none;" src="https://hibbitts.rocket.chat/livechat?mode=popout" width="100%" height="610px" name="myiFrame" allowfullscreen="allowfullscreen"></iframe>
+
+</div>
+<div class="column">
 
 **Paul Hibbitts**  
 :fas fa-envelope fa-fw: [paul_hibbitts@sfu.ca](#)  
@@ -11,3 +19,6 @@ Suggestion or complaint?
 **Teaching Assistants**  
 :fas fa-envelope fa-fw: [neil_mukesh_shah@sfu.ca]()  
 :fas fa-envelope fa-fw: [abhay_jolly@sfu.ca]()  
+
+</div>
+</div>
