@@ -4,17 +4,17 @@
 
 ## One-Minute Summaries and Questions  
 
-[Defining usability]() <span class='badge'> Thu Jan 14th 11:59pm PT </span>  
-[The UX Pyramid]() <span class='badge'> Thu Jan 14th 11:59pm PT </span>  
+[Defining usability](https://paulhibbitts.github.io/docsify-cmpt-363-211-demo/#/) <span class='badge'> Thu Jan 14th 11:59pm PT </span>  
+[The UX Pyramid](https://paulhibbitts.github.io/docsify-cmpt-363-211-demo/#/) <span class='badge'> Thu Jan 14th 11:59pm PT </span>  
 
 ## Weekly Quiz
 
-[Week 1 Review Quiz (Practice)]() <span class='badge'> Sun Jan 17th 11:59pm PT </span>  
+[Week 1 Review Quiz (Practice)](https://canvas.sfu.ca/courses/62884/assignments/642591) <span class='badge'> Sun Jan 17th 11:59pm PT </span>  
 
 ## Required Readings  
 
-[Defining usability (7 minute read)]()  
-[The UX Pyramid (13 minute read)]()  
+[Defining usability (7 minute read)](https://paulhibbitts.github.io/docsify-cmpt-363-211-demo/#/)  
+[The UX Pyramid (13 minute read)](https://paulhibbitts.github.io/docsify-cmpt-363-211-demo/#/)  
 
 ## BlackBoard Collaborate Session Slides
 

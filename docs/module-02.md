@@ -8,7 +8,7 @@
 [Touch Targets on Touchscreens](https://www.nngroup.com/articles/touch-target-size/) <span class='badge'>Thu Jan 21st 11:59pm PT</span>  
 
 ## Weekly Quiz
-[Week 2 Review Quiz (Practice)](https://canvas.sfu.ca/courses/59869/assignments/583041) <span class='badge'>Sun Jan 24th 11:59pm PT</span>   
+[Week 2 Review Quiz (Practice)](https://canvas.sfu.ca/courses/62884/assignments/642592) <span class='badge'>Sun Jan 24th 11:59pm PT</span>   
 
 ## Required Readings  
 [Interaction design: a guide for beginners (19 minute read)](https://uxplanet.org/interaction-design-a-guide-for-beginners-32ff2364b53f)  

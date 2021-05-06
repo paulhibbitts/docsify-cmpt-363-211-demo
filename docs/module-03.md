@@ -10,7 +10,7 @@
 [Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/59869/assignments/583035) <span class='badge'>Thu Jan 28th 11:59pm PT</span>  
 
 ## Weekly Quiz
-[Week 3 Review Quiz](/211/lms-assignments/weekly-review-quizzes/week-03) <span class='badge'>Sun Jan 31st 11:59pm PT</span>  
+[Week 3 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642596) <span class='badge'>Sun Jan 31st 11:59pm PT</span>  
 
 ## Required Readings  
 [How to Use Heuristic Evaluations to Improve Product Designs (8 minute read)](https://xd.adobe.com/ideas/process/user-testing/how-to-heuristic-evaluation-analysis-ux-design/)  

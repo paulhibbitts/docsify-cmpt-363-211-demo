@@ -7,7 +7,7 @@
 :fas fa-book fa-fw: [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
 :fas fa-book fa-fw: [The UX Pyramid (13 minute read)](https://uxdesign.cc/the-ux-pyramid-1e74ea61d95)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 1](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Jan 14th 11:59pm PT</span>  
-:fas fa-keyboard fa-fw: [Week 1 Review Quiz (Practice)](https://canvas.sfu.ca/courses/59869/assignments/583046) <span class='badge'> Sun Jan 17th 11:59pm PT</span>  
+:fas fa-keyboard fa-fw: [Week 1 Review Quiz (Practice)](https://canvas.sfu.ca/courses/62884/assignments/642591) <span class='badge'> Sun Jan 17th 11:59pm PT</span>  
 
 ## :fas fa-calendar fa-fw: [Week 2 (Jan 18 - 24)](module-02)
 **What is the practice of multi-device interaction design?**  
@@ -17,7 +17,7 @@
 :fas fa-book fa-fw: [Five HCI Laws for User Experience Design](https://measuringu.com/hci-laws/) (4 minute read)  
 :fas fa-book fa-fw: [Touch Targets on Touchscreens](https://www.nngroup.com/articles/touch-target-size/) (11 minute read)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 2](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Jan 21st 11:59pm PT</span>  
-:fas fa-keyboard fa-fw: [Week 2 Review Quiz (Practice)](https://canvas.sfu.ca/courses/59869/assignments/583041) <span class='badge'> Sun Jan 24th 11:59pm PT</span>  
+:fas fa-keyboard fa-fw: [Week 2 Review Quiz (Practice)](https://canvas.sfu.ca/courses/62884/assignments/642592) <span class='badge'> Sun Jan 24th 11:59pm PT</span>  
 
 ## :fas fa-calendar fa-fw: [Week 3 (Jan 25 - 31)](module-03)
 **How to conduct a user interface inspection?**  
@@ -27,7 +27,7 @@
 :fas fa-book fa-fw: [How to Use Heuristic Evaluations to Improve Product Designs (8 minute read)](https://xd.adobe.com/ideas/process/user-testing/how-to-heuristic-evaluation-analysis-ux-design/)  
 :fas fa-book fa-fw: [Severity Ratings for Usability Problems (5 minute read)](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)   
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 3](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Jan 28th 11:59pm PT</span>  
-:fas fa-keyboard fa-fw: [Week 3 Review Quiz](https://canvas.sfu.ca/courses/59869/assignments/583042) <span class='badge'> Sun Jan 31st 11:59pm PT</span>  
+:fas fa-keyboard fa-fw: [Week 3 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642596) <span class='badge'> Sun Jan 31st 11:59pm PT</span>  
 
 ## :fas fa-calendar fa-fw: [Week 4 (Feb 1 - 7)](module-04)
 **Special topic - heuristic evaluations**  
@@ -45,7 +45,7 @@
 :fas fa-book fa-fw: [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (12 minute read)](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860)  
 :fas fa-book fa-fw: [Chapter 2: Getting to Know Users and Their Tasks (22 minute read)](https://courses.cs.washington.edu/courses/cse440/08au/readings_files/lewis-reiman/chap-2.v-1.html)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Feb 4th 11:59pm PT</span>    
-:fas fa-keyboard fa-fw: [Week 5 Review Quiz](https://canvas.sfu.ca/courses/59869/assignments/583048) <span class='badge'> Sun Feb 14th 11:59pm PT</span>  
+:fas fa-keyboard fa-fw: [Week 5 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642597) <span class='badge'> Sun Feb 14th 11:59pm PT</span>  
 
 ## :fas fa-calendar fa-fw: [Week 6 (Feb 15 - 21)](module-06)
 **Reading week, no classes**  
