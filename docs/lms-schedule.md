@@ -20,6 +20,7 @@
 :fas fa-keyboard fa-fw: [Week 2 Review Quiz (Practice)](https://canvas.sfu.ca/courses/59869/assignments/583041) <span class='badge'> Sun Jan 24th 11:59pm PT</span>  
 
 ## :fas fa-calendar fa-fw: [Week 3 (Jan 25 - 31)](https://canvas.sfu.ca/courses/59869/modules/items/1858686)
+**How to conduct a user interface inspection?**  
 :fas fa-pen fa-fw: Individual Heuristic Inspection Assignment <span class='badge'> Mon Feb 8th 11:59pm PT</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> Tue Jan 26th 2:30pm PT</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> Fri Jan 29th 2:30pm PT</span>  
