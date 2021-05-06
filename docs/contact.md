@@ -6,9 +6,7 @@
 <iframe id="livechat" style="margin-top: 22px; border: 1px #ffffff none;" src="https://hibbitts.rocket.chat/livechat?mode=popout" width="100%" height="610px" name="myiFrame" allowfullscreen="allowfullscreen"></iframe>
 
 </div>
-<div class="column">
-
-<br>
+<div class="column" style="margin-top: 18px">
 
 ## Course Facilitators
 
