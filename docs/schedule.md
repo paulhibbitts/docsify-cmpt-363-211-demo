@@ -6,8 +6,8 @@
 :fas fa-desktop fa-fw: Weekly Review Quiz Tutorial <span class='badge'> Fri Jan 15th 2:30pm PT</span>  
 :fas fa-book fa-fw: [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
 :fas fa-book fa-fw: [The UX Pyramid (13 minute read)](https://uxdesign.cc/the-ux-pyramid-1e74ea61d95)  
-:fas fa-keyboard fa-fw: [One-minute Summaries for Week 1](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Jan 14th 11:59pm PT</span>  
-:fas fa-keyboard fa-fw: [Week 1 Review Quiz (Practice)](https://canvas.sfu.ca/courses/61465/assignments/610789) <span class='badge'> Sun Jan 17th 11:59pm PT</span>  
+:fas fa-keyboard fa-fw: [One-minute Summaries for Week 1](https://canvas.sfu.ca/courses/59869/assignments) <span class='badge'> Thu Jan 14th 11:59pm PT</span>  
+:fas fa-keyboard fa-fw: [Week 1 Review Quiz (Practice)](https://canvas.sfu.ca/courses/59869/assignments/583046) <span class='badge'> Sun Jan 17th 11:59pm PT</span>  
 
 ## :fas fa-calendar fa-fw: [Week 2 (Jan 18 - 24)](module-02)
 **What is the practice of multi-device interaction design?**  
