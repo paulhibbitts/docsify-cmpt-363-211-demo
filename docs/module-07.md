@@ -10,7 +10,7 @@
 [Job Stories Offer a Viable Alternative to User Stories](https://canvas.sfu.ca/courses/59869/assignments/583036) <span class='badge'> Thu Feb 25th 11:59pm PT</span>
 
 ## Weekly Quiz
-[Week 7 Review Quiz](https://canvas.sfu.ca/courses/59869/assignments/583049) <span class='badge'> Sun Feb 28th 11:59pm PT </span>
+[Week 7 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642598) <span class='badge'> Sun Feb 28th 11:59pm PT </span>
 
 ## Required Readings  
 [A guide to top UX Research methods (8 minute read)](https://uxdesign.cc/a-guide-to-top-ux-research-methods-1adef6d46efe)  

@@ -59,7 +59,7 @@
 :fas fa-book fa-fw: [A guide to top UX Research methods (8 minute read)](https://uxdesign.cc/a-guide-to-top-ux-research-methods-1adef6d46efe)  
 :fas fa-book fa-fw: [Job Stories Offer a Viable Alternative to User Stories (10 minute read)](https://www.mountaingoatsoftware.com/blog/job-stories-offer-a-viable-alternative-to-user-stories)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 7](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Feb 25th 11:59pm PT</span>  
-:fas fa-keyboard fa-fw: [Week 7 Review Quiz](https://canvas.sfu.ca/courses/59869/assignments/583049) <span class='badge'> Sun Feb 28th 11:59pm PT </span>
+:fas fa-keyboard fa-fw: [Week 7 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642598) <span class='badge'> Sun Feb 28th 11:59pm PT </span>
 
 ## :fas fa-calendar fa-fw: [Week 8 (Mar 1 - 7)](https://canvas.sfu.ca/courses/62884/modules/items/2050638)
 **How to bridge the gap between the problem space and design space?**  
@@ -69,7 +69,7 @@
 :fas fa-book fa-fw: [Don Norman’s Principles of Interaction Design (8 minute read)](https://medium.com/@sachinrekhi/don-normans-principles-of-interaction-design-51025a2c0f33)  
 :fas fa-book fa-fw: [Not Just Pretty: Building Emotion Into Your Websites (15 minute read)](https://www.smashingmagazine.com/2012/04/building-emotion-into-your-websites/)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 8](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'>Thu Mar 4th 11:59pm PT</span>  
-:fas fa-keyboard fa-fw: [Week 8 Review Quiz](https://canvas.sfu.ca/courses/59869/assignments/583050) <span class='badge'>Sun Mar 7th 11:59pm PT</span>
+:fas fa-keyboard fa-fw: [Week 8 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642599) <span class='badge'>Sun Mar 7th 11:59pm PT</span>
 
 
 ## :fas fa-calendar fa-fw: [Week 9 (Mar 8 - 14)](https://canvas.sfu.ca/courses/62884/modules/items/2050639)
@@ -88,7 +88,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 :fas fa-book fa-fw: [The Principles of Design and Their Importance (9 minute read)](https://www.toptal.com/designers/ui/principles-of-design)  
 :fas fa-book fa-fw: [Guide for designing better mobile apps typography (6 minute read)](https://uxdesign.cc/guide-for-designing-better-mobile-apps-typography-5796495ef86f)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 10](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Mar 25th 11:59pm PT</span>  
-:fas fa-keyboard fa-fw: [Week 10 Review Quiz](https://canvas.sfu.ca/courses/59869/assignments/583043) <span class='badge'> Sun Mar 28th 11:59pm PT</span>
+:fas fa-keyboard fa-fw: [Week 10 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642593) <span class='badge'> Sun Mar 28th 11:59pm PT</span>
 
 ## :fas fa-calendar fa-fw: [Week 11 (Mar 22 - 28)](https://canvas.sfu.ca/courses/62884/modules/items/2050641)
 **Special topic - visual interface design**  
@@ -96,7 +96,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 :fas fa-book fa-fw: [10 Principles for Color Usage in UI Design (8 minutes)](https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004)  
 :fas fa-book fa-fw: [Accessibility for Visual Design (9 minute read)](https://www.uxbooth.com/articles/accessibility-visual-design)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 11](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Mar 26th 11:59pm PT</span>  
-:fas fa-keyboard fa-fw: [Week 11 Review Quiz](https://canvas.sfu.ca/courses/59869/assignments/583043) <span class='badge'>Sun Mar 21st 11:59pm PT</span>
+:fas fa-keyboard fa-fw: [Week 11 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642594) <span class='badge'>Sun Mar 21st 11:59pm PT</span>
 
 
 ## :fas fa-calendar fa-fw: [Week 12 (Mar 29- Apr 4)](https://canvas.sfu.ca/courses/62884/modules/items/2050642)
@@ -112,7 +112,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 :fas fa-book fa-fw: [Usability Testing Guide (14 minute read)](https://boxesandarrows.com/usability-testing-guide/)  
 :fas fa-book fa-fw: [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (10 minute read)](https://www.nngroup.com/articles/better-usability-tasks/)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 13](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'>Fri Apr 9th 11:59pm PT</span>  
-:fas fa-keyboard fa-fw: [Week 13 Review Quiz](https://canvas.sfu.ca/courses/59869/assignments/583045) <span class='badge'>Sun Apr 11th 11:59pm PT</span>  
+:fas fa-keyboard fa-fw: [Week 13 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642595) <span class='badge'>Sun Apr 11th 11:59pm PT</span>  
 
 ## :fas fa-calendar fa-fw: [Week 14 (Apr 12 - 16)](https://canvas.sfu.ca/courses/62884/modules/items/2050644)
 **Course wrap-up**  

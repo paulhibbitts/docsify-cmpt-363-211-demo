@@ -11,7 +11,7 @@
 [Guide for designing better mobile apps typography](https://canvas.sfu.ca/courses/59869/assignments/583019)  <span class='badge'> Thu Mar 18th 11:59pm PT</span>  
 
 ## Weekly Quiz
-[Week 10 Review Quiz](https://canvas.sfu.ca/courses/59869/assignments/583043) <span class='badge'>Sun Mar 21st 11:59pm PT</span>
+[Week 10 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642593) <span class='badge'>Sun Mar 21st 11:59pm PT</span>
 
 ## Required Readings  
 [The Principles of Design and Their Importance (9 minute read)](https://www.toptal.com/designers/ui/principles-of-design)  

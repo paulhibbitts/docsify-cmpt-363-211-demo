@@ -8,7 +8,7 @@
 [Not Just Pretty: Building Emotion Into Your Websites](https://canvas.sfu.ca/courses/59869/assignments/583037) <span class='badge'>Thu Mar 4th 11:59pm PT</span>  
 
 ## Weekly Quiz
-[Week 8 Review Quiz](https://canvas.sfu.ca/courses/59869/assignments/583050) <span class='badge'>Sun Mar 7th 11:59pm PT</span>
+[Week 8 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642599) <span class='badge'>Sun Mar 7th 11:59pm PT</span>
 
 ## Required Readings  
 [Leveraging Mental Models in Product Design (11 minute read)](https://medium.com/swlh/leveraging-mental-models-in-ux-design-21ba8fbce22d)  

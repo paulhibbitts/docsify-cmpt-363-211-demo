@@ -6,6 +6,9 @@
 [10 Principles for Color Usage in UI Design](https://canvas.sfu.ca/courses/59869/assignments/583021) <span class='badge'> Thu Mar 25th 11:59pm PT</span>  
 [Accessibility for Visual Design](https://canvas.sfu.ca/courses/59869/assignments/583022) <span class='badge'> Thu Mar 25th 11:59pm PT</span>  
 
+## Weekly Quiz
+[Week 11 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642594) <span class='badge'>Sun Mar 28th 11:59pm PT</span>
+
 ## Required Readings  
 [10 Principles for Color Usage in UI Design (8 minutes)](https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004)  
 [Accessibility for Visual Design (9 minute read)](https://www.uxbooth.com/articles/accessibility-visual-design)  

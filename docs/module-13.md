@@ -10,7 +10,7 @@
 [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid](https://canvas.sfu.ca/courses/59869/assignments/583018) <span class='badge'> Thu Apr 8th 11:59pm PT</span>  
 
 ## Weekly Quiz
-[Week 13 Review Quiz](https://canvas.sfu.ca/courses/59869/assignments/583045) <span class='badge'>Sun Apr 11th 11:59pm PT</span>  
+[Week 13 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642595) <span class='badge'>Sun Apr 11th 11:59pm PT</span>  
 
 ## Required Readings  
 [Usability Testing Guide (14 minute read)](https://boxesandarrows.com/usability-testing-guide/)  
