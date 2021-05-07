@@ -212,8 +212,8 @@
   clear: both;
 }
 
-@media screen and (max-width:800px) {
-  .column {
+@media screen and (min-width:800px) {
+  .markdown-section .column {
     width: 100%;
   }
 }
