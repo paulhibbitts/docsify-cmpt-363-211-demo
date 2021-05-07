@@ -1,4 +1,4 @@
-# All Weekly Readings
+# All Readings
 
 **Week 1 - Defining usability (1 of 2)**    
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://blog.prototypr.io/defining-usability-e7bf42e8abd0">Defining usability</a><script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
