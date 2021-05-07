@@ -59,6 +59,10 @@
   margin-bottom: -.3em;
 }
 
+.markdown-section .alert ul li{
+  margin: 1px 0;
+}
+
 .markdown-section .alert ul li:before {
   color: #333;
   content: '\2B29';
