@@ -25,6 +25,10 @@
   margin-bottom: -.3em;
 }
 
+.markdown-section blockquote ul li{
+  margin: 1px 0;
+}
+
 .markdown-section blockquote ul li:before {
   color: #333;
   content: '\2B29';
