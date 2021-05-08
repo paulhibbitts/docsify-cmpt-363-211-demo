@@ -34,7 +34,7 @@ _Figure 1. Docsify Open Course Starter Kit. Explore a demo at [hibbitts-design.g
 
 [Learn more about pages in Docsify.](https://docsify.js.org/#/more-pages)
 
-🔗 Activating the "Edit this Page on GitHub" Link
+🔗 Activating the "Edit this Page" Link
 ---   
 
 1. Go to the file index.html in the `docs` folder of your repository
