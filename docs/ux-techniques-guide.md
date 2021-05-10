@@ -607,56 +607,19 @@ _The evaluation of a user interface against a checklist of design rules or heuri
 <details>
   <summary>How to Plan, Conduct, and Summarize Usability Tests?</summary>
 
-Usability Test Reports  
-_How to write more effective usability test reports._
+[Rapid Iterative Testing and Evaluation (RITE) Method](ux-techniques-guide/how-to-plan-conduct-and-summarize-usability-tests/rapid-iterative-testing-and-evaluation-method.md ':include')
 
-*  [How to Deliver a Report Without Getting Lynched](http://www.asktog.com/columns/047HowToWriteAReport.html)  
-*  [Making Usability Findings Actionable: 5 Tips for Writing Better Reports](http://www.nngroup.com/articles/actionable-usability-findings/)  
-*  [Writing usability reports](http://infodesign.com.au/usabilityresources/writingusabilityreports/)  
+[Usability Test Reports](ux-techniques-guide/how-to-plan-conduct-and-summarize-usability-tests/usability-test-reports.md ':include')
 
-Usability Test Surveys  
-_Post-session usability test surveys which have been shown to be valid and reliable._
+[Usability Test Surveys](ux-techniques-guide/how-to-plan-conduct-and-summarize-usability-tests/usability-test-surveys.md ':include')
 
-*  [After-Scenario Questionnaire](http://hcibib.org/perlman/question.cgi?form=ASQ)  
-*  [If you could only ask one question, use this one (SEQ)](http://www.measuringusability.com/blog/single-question.php)  
-*  [Recent Advances with the System Usability Scale](https://measuringu.com/sus-advances/)  
-*  [System Usability Scale (SUS)](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)  
-*  [Two Simple Post-Test Questions](http://www.uie.com/brainsparks/2006/03/23/two-simple-post-test-questions/)  
-*  [When A Survey Is The Better Research Method](http://www.measuringu.com/blog/better-survey.php)
+[Usability Test Tasks](ux-techniques-guide/how-to-plan-conduct-and-summarize-usability-tests/usability-test-tasks.md ':include')
 
-Usability Test Tasks  
-_Creating effective tasks for observational usability tests._
+[Usability Testing](ux-techniques-guide/how-to-plan-conduct-and-summarize-usability-tests/usability-testing-formal.md ':include')
 
-*  [Seven Tips for Writing Usability Task Scenarios](http://www.measuringusability.com/blog/task-tips.php)  
-*  [Usability testing: how do we design effective tasks](http://design.canonical.com/2013/08/usability-testing-how-do-we-design-effective-tasks/)  
+[Informal (Guerilla) Usability Testing](ux-techniques-guide/how-to-plan-conduct-and-summarize-usability-tests/usability-testing-informal.md ':include')
 
-Usability Testing  
-_An evaluation method where participants try to complete certain tasks using a specific system._
-
-*  [4 forgotten principles of usability testing](https://medium.freecodecamp.com/4-forgotten-principles-of-usability-testing-29751df38bc1#.cupe3xltl)  
-*  [10 Tips For Benchmark Usability Tests](http://www.measuringu.com/blog/benchmark-tips.com)  
-*  [20 Tips For Your Next Moderated Usability Test](http://www.measuringu.com/blog/20-usability-tips.php)  
-*  [Beginner's Guide to Moderating a Usability Study](http://www.ok-cancel.com/archives/article/2005/06/beginners-guide-to-moderating-a-usability-study.html)  
-*  [One page usability test plan (dashboard)](https://medium.com/@userfocus/the-1-page-usability-test-plan-dbc8c3d7fb54#.viosd3nte)
-*  [Seven Common Usability Testing Mistakes](http://www.uie.com/articles/usability_testing_mistakes/)  
-*  [Success Rate: The Simplest Usability Metric (Jakob Nielsen's Alertbox)](http://www.useit.com/alertbox/20010218.html)  
-*  [Talking with Participants During a Usability Test](https://www.nngroup.com/articles/talking-to-users/)  
-*  [Usability Testing (Usability BoK)](http://www.usabilitybok.org/usability-testing)  
-
-Informal (Guerilla) Usability Testing  
-_A rapid and less rigorous approach to conducting usability testing._
-
-*  [7 Step Guide to Guerrilla Usability Testing: DIY Usability Testing Method](https://userbrain.net/blog/7-step-guide-guerrilla-usability-testing-diy-usability-testing-method)  
-*  [Quick and Dirty Remote User Testing](http://alistapart.com/article/quick-and-dirty-remote-user-testing)  
-*  [The Art of Guerilla Usability Testing](http://www.uxbooth.com/articles/the-art-of-guerilla-usability-testing/)  
-*  [The Pros and Cons of Guerrilla Research for Your UX Project](https://www.interaction-design.org/literature/article/the-pros-and-cons-of-guerrilla-research-for-your-ux-project)  
-
-Remote Usability Testing  
-_An evaluation method where remote participants try to complete certain tasks using a specific system._
-
-*  [Debunking the Myths of Online Usability Testing](http://johnnyholland.org/2010/04/09/debunking-the-myths-of-online-usability-testing/)  
-*  [Guide to Remote Usability Testing](http://www.ok-cancel.com/archives/article/2006/07/guide-to-remote-usability-testing.html)  
-*  [Remote Testing versus Lab Testing](http://boltpeters.com/blog/remote-testing-versus-lab-testing-2/)  
+[Remote Usability Testing](ux-techniques-guide/how-to-plan-conduct-and-summarize-usability-tests/usability-testing-remote.md ':include')
 
 </details>
 
