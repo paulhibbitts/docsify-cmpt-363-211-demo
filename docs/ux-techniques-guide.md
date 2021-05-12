@@ -517,67 +517,25 @@ _Drawings of individual screens that represent major content and navigation elem
 <details>
   <summary>What are the Essentials of Effective Visual Communication?</summary>
 
-Color  
-_Aspects of an object described in terms of hue, lightness, and saturation._
+[Color](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/color.md ':include')
 
-*  [Color - Usability Matters](http://colormatters.com/color-and-design/color-and-usability-matters)  
-*  [Color Basics: Dos and Dont's](http://www.colourlovers.com/blog/2009/06/02/color-basics-dos-and-donts)  
-*  [Color Theory for Designers, Part 1: The Meaning of Color](http://www.smashingmagazine.com/2010/01/28/color-theory-for-designers-part-1-the-meaning-of-color/)  
-*  [Colorblindness - A Usability Guide for Commercial Applications, Part 1](http://www.technewsworld.com/story/56106.html)  
-*  [Designing for Colour Blindness](https://blog.prototypr.io/designing-for-colour-blindness-b74a9d012ef2#.8rb3iitkn)  
+[Grids](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/grids.md ':include')
 
-Grids  
-_A visible or invisible structure of intersecting lines._
+[Hierarchy](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/hierarchy.md ':include')
 
-*  [Create a grid that adapts to all screens](http://www.creativebloq.com/web-design/create-grid-adapts-all-screens-71621286)
-*  [The Grid System: Building a Solid Design Layout](https://www.interaction-design.org/literature/article/the-grid-system-building-a-solid-design-layout)  
-*  [Using Layout Grids Effectively](https://www.designersinsights.com/designer-resources/using-layout-grids-effectively/)  
+[Icons](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/icons.md ':include')
 
-Hierarchy  
-_Differences between items shown visually._
+[Interface Animation](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/interface-animation.md ':include')
 
-*  [A Closer Look at Hierarchy in Web Design](http://www.onextrapixel.com/2010/06/24/a-closer-look-at-hierarchy-in-web-design/)  
-*  [Creating Better Typographic Hierarchy](https://medium.com/designed-thought/creating-better-typographic-hierarchy-1148a46b2fc)  
-*  [Visual Design and Usability Yellow Brick Road](http://uxmag.com/articles/visual-design-and-usability-yellow-brick-road)
+[Layout](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/layout.md ':include')
 
-Icons  
-_Visual symbols representing concepts or commands._
+[Terminology](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/terminology.md ':include')
 
-*  [Designing For User Interfaces: Icons As Visual Elements For Screen Design](https://www.smashingmagazine.com/2018/02/user-interfaces-icons-visual-elements-screen-design/)  
-*  [Icons As Part Of A Great User Experience](https://www.smashingmagazine.com/2016/10/icons-as-part-of-a-great-user-experience/)  
-*  [Small Elements, Big Impact: Types and Functions of UI Icons.](https://uxplanet.org/small-elements-big-impact-types-and-functions-of-ui-icons-87c6a74d366e)  
+[Typography](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/typography.md ':include')
 
-Interface Animation  
-_The use of animation to enhance the feedback and overall experience of a user interface._  
+[Visual Design Principles (CRAP)](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/visual-design-principles.md ':include')
 
-*  [A beginner's guide to designing interface animations](http://www.creativebloq.com/web-design/beginners-guide-designing-interface-animations-61617793)  
-*  [Animated Interactions. Motion on Purpose](https://medium.com/@tubikstudio/animated-interactions-motion-on-purpose-943bebcaf438#.rnzievjfw)  
-*  [Communicating Animation](http://alistapart.com/article/communicating-animation)  
-
-Layout  
-_The arrangement of individual visual objects within a composition._
-
-*  [Designing With Grid-Based Approach](https://www.smashingmagazine.com/2007/04/designing-with-grid-based-approach/)  
-*  [Getting Started with Page Layout: Principles of Graphic Design](http://www.emcp.com/intro_pc/reading6.htm)  
-*  [The Four Basic Principles of Design](http://intranet.micds.org/upper/ArtDept/DigStudio/PrincipleLecture.html)  
-*  [The Grid System: Building a Solid Design Layout](https://www.interaction-design.org/literature/article/the-grid-system-building-a-solid-design-layout)  
-*  [Unbox the Web!](https://uxdesign.cc/unbox-the-web-f00bc8e0d0e3#.zfy2s4g9o)  
-*  [UX & Psychology go hand in hand— How Gestalt theory appears in UX design?](https://uxdesign.cc/ux-psychology-go-hand-in-hand-how-gestalt-theory-appears-in-ux-design-18b727343da8)  
-
-Terminology  
-_The terms used to describe various concepts and objects._
-
-*  [Plain Language and Usable Accessibility: Whitney Quesenbery](http://simplyaccessible.com/article/whitney-quesenbery/)  
-*  [Tell It To Me Straight: Plain Language in UX](https://blogs.adobe.com/creativecloud/tell-it-to-me-straight-plain-language-in-ux/)  
-
-Typography  
-_The design of typefaces, and the way type is selected and arranged._
-
-*  [A Quick and Comprehensive Guide to Type (Infographic)](http://designify.me/wp-content/uploads/infographic-typography-guide.png)  
-*  [HTML & CSS - Working with Typography](http://learn.shayhowe.com/html-css/working-with-typography/)  
-*  [How to Speak Typography: Terms You Should Know](https://creativemarket.com/blog/2015/12/28/how-to-speak-typography-terms-you-should-know)  
-*  [Reading Online Text: A Comparison of Four White Space Layouts](http://psychology.wichita.edu/surl/usabilitynews/62/whitespace.htm)  
-*  [Web Typography: Designing Tables to be Read, Not Looked At](https://alistapart.com/article/web-typography-tables)  
+[Visual Interface Design](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/visual-interface-design.md ':include')
 
 </details>
 
