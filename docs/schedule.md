@@ -1,6 +1,6 @@
 # Schedule
 
-## :fas fa-calendar fa-fw: [Week 1 (Jan 11 - 17)](module-01)
+## :fas fa-calendar fa-fw: [Week 1 (Jan 11 - 17)](week-01)
 **Course overview/What is usability and user experience design?**  
 :fas fa-desktop fa-fw: Course Overview <span class='badge'> Tue Jan 12th 2:30pm PT</span>  
 :fas fa-desktop fa-fw: Weekly Review Quiz Tutorial <span class='badge'> Fri Jan 15th 2:30pm PT</span>  
@@ -9,7 +9,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 1](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Jan 14th 11:59pm PT</span>  
 :fas fa-keyboard fa-fw: [Week 1 Review Quiz (Practice)](https://canvas.sfu.ca/courses/62884/assignments/642591) <span class='badge'> Sun Jan 17th 11:59pm PT</span>  
 
-## :fas fa-calendar fa-fw: [Week 2 (Jan 18 - 24)](module-02)
+## :fas fa-calendar fa-fw: [Week 2 (Jan 18 - 24)](week-02)
 **What is the practice of multi-device interaction design?**  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> Tue Jan 19th 2:30pm PT</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> Fri Jan 22nd 2:30pm PT</span>  
@@ -19,7 +19,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 2](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Jan 21st 11:59pm PT</span>  
 :fas fa-keyboard fa-fw: [Week 2 Review Quiz (Practice)](https://canvas.sfu.ca/courses/62884/assignments/642592) <span class='badge'> Sun Jan 24th 11:59pm PT</span>  
 
-## :fas fa-calendar fa-fw: [Week 3 (Jan 25 - 31)](module-03)
+## :fas fa-calendar fa-fw: [Week 3 (Jan 25 - 31)](week-03)
 **How to conduct a user interface inspection?**  
 :fas fa-pen fa-fw: Individual Heuristic Inspection Assignment <span class='badge'> Mon Feb 8th 11:59pm PT</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> Tue Jan 26th 2:30pm PT</span>  
@@ -29,7 +29,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 3](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Jan 28th 11:59pm PT</span>  
 :fas fa-keyboard fa-fw: [Week 3 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642596) <span class='badge'> Sun Jan 31st 11:59pm PT</span>  
 
-## :fas fa-calendar fa-fw: [Week 4 (Feb 1 - 7)](module-04)
+## :fas fa-calendar fa-fw: [Week 4 (Feb 1 - 7)](week-04)
 **Special topic - heuristic evaluations**  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> Tue Feb 2nd 2:30pm PT</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> Fri Feb 5th 2:30pm PT</span>  
@@ -37,7 +37,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 4](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Feb 4th 11:59pm PT</span>  
 :fas fa-keyboard fa-fw: No weekly review quiz  
 
-## :fas fa-calendar fa-fw: [Week 5 (Feb 8 - 14)](module-05)
+## :fas fa-calendar fa-fw: [Week 5 (Feb 8 - 14)](week-05)
 **How to explore and describe possible design solutions?**    
 :fas fa-check fa-fw: [Individual Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/59869/assignments/583039) <span class='badge'> Mon Feb 8th 11:59pm PT</span>    
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> Tue Feb 9th 2:30pm PT</span>  
@@ -47,10 +47,10 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Feb 4th 11:59pm PT</span>    
 :fas fa-keyboard fa-fw: [Week 5 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642597) <span class='badge'> Sun Feb 14th 11:59pm PT</span>  
 
-## :fas fa-calendar fa-fw: [Week 6 (Feb 15 - 21)](module-06)
+## :fas fa-calendar fa-fw: [Week 6 (Feb 15 - 21)](week-06)
 **Reading week, no classes**  
 
-## :fas fa-calendar fa-fw: [Week 7 (Feb 22 - 28)](module-07)
+## :fas fa-calendar fa-fw: [Week 7 (Feb 22 - 28)](week-07)
 **How to understand and communicate people's needs and behaviors?**  
 :fas fa-pen fa-fw: [Design Scenarios and Storyboard Mockups](https://canvas.sfu.ca/courses/59869/assignments/583038) <span class='badge'> Mon Mar 15th 11:59pm PT</span>  
 :fas fa-folder fa-fw: [Team Member Evaluation](https://www.surveymonkey.ca/r/WFTBBDX) <span class='badge'> Tue Mar 16th 11:59pm PT</span>  
@@ -61,7 +61,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 7](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Feb 25th 11:59pm PT</span>  
 :fas fa-keyboard fa-fw: [Week 7 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642598) <span class='badge'> Sun Feb 28th 11:59pm PT </span>
 
-## :fas fa-calendar fa-fw: [Week 8 (Mar 1 - 7)](module-08)
+## :fas fa-calendar fa-fw: [Week 8 (Mar 1 - 7)](week-08)
 **How to bridge the gap between the problem space and design space?**  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> Tue Mar 2nd 2:30pm PT</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> Fri Mar 5th 2:30pm PT</span>  
@@ -71,13 +71,13 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 8](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'>Thu Mar 4th 11:59pm PT</span>  
 :fas fa-keyboard fa-fw: [Week 8 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642599) <span class='badge'>Sun Mar 7th 11:59pm PT</span>
 
-## :fas fa-calendar fa-fw: [Week 9 (Mar 8 - 14)](module-09)
+## :fas fa-calendar fa-fw: [Week 9 (Mar 8 - 14)](week-09)
 **Instructor design scenarios and storyboard mockups meetings**  
 Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collaborate sessions  
 :fas fa-book fa-fw: [How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/) (suggested reading, not required)  
 :fas fa-keyboard fa-fw: No weekly review quiz  
 
-## :fas fa-calendar fa-fw: [Week 10 (Mar 15 - 21)](module-10)
+## :fas fa-calendar fa-fw: [Week 10 (Mar 15 - 21)](week-10)
 **What are the essentials of visual interface design?**  
 :fas fa-check fa-fw: [Design Scenarios and Storyboard Mockups](https://canvas.sfu.ca/courses/59869/assignments/583038) <span class='badge'> Mon Mar 15th 11:59pm PT</span>  
 :fas fa-pen fa-fw: [Interactive Prototype](https://canvas.sfu.ca/courses/59869/assignments/583040) <span class='badge'> Wed Apr 7th 11:59pm PT</span>  
@@ -89,7 +89,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 10](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Mar 25th 11:59pm PT</span>  
 :fas fa-keyboard fa-fw: [Week 10 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642593) <span class='badge'> Sun Mar 28th 11:59pm PT</span>
 
-## :fas fa-calendar fa-fw: [Week 11 (Mar 22 - 28)](module-11)
+## :fas fa-calendar fa-fw: [Week 11 (Mar 22 - 28)](week-11)
 **Special topic - visual interface design**  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> Tue Mar 2nd 2:30pm PT</span>  
 :fas fa-book fa-fw: [10 Principles for Color Usage in UI Design (8 minutes)](https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004)  
@@ -98,12 +98,12 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 :fas fa-keyboard fa-fw: [Week 11 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642594) <span class='badge'>Sun Mar 21st 11:59pm PT</span>
 
 
-## :fas fa-calendar fa-fw: [Week 12 (Mar 29- Apr 4)](module-12)
+## :fas fa-calendar fa-fw: [Week 12 (Mar 29- Apr 4)](week-12)
 **Instructor interactive prototype meetings and course wrap-up**  
 Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collaborate sessions  
 :fas fa-keyboard fa-fw: No weekly review quiz  
 
-## :fas fa-calendar fa-fw: [Week 13 (Apr 5 - 11)](module-13)
+## :fas fa-calendar fa-fw: [Week 13 (Apr 5 - 11)](week-13)
 **How to plan, conduct, and summarize usability tests?**  
 :fas fa-check fa-fw: [Group Interactive Prototype](https://canvas.sfu.ca/courses/59869/assignments/583040) <span class='badge'>  Wed Apr 7th 11:59pm PT </span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> Tue Apr 2nd 2:30pm PT</span>  
@@ -113,7 +113,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 13](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'>Fri Apr 9th 11:59pm PT</span>  
 :fas fa-keyboard fa-fw: [Week 13 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642595) <span class='badge'>Sun Apr 11th 11:59pm PT</span>  
 
-## :fas fa-calendar fa-fw: [Week 14 (Apr 12 - 16)](module-14)
+## :fas fa-calendar fa-fw: [Week 14 (Apr 12 - 16)](week-14)
 **Course wrap-up**  
 
 ## :fas fa-calendar fa-fw: Final Exam
