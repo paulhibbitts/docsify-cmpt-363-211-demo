@@ -37,8 +37,4 @@
 
 [Personas](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/personas.md ':include')
 
-[Problem Reframing](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/problem-reframing.md ':include')
-
-[Task Analysis](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/task-analysis.md ':include')
-
 [User Research](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/user-research.md ':include')
