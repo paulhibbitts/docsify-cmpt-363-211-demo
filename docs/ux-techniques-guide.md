@@ -34,6 +34,8 @@
 
 [Contextual Inquiry](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/contextual-inquiry.md ':include')
 
+[Remote Contextual Inquiry](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/contextual-inquiry-remote.md ':include')
+
 [Diary Studies](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/diary-studies.md ':include')
 
 [Discovery Research](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/discovery-research.md ':include')
@@ -50,7 +52,7 @@
 
 [Proto-Personas](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/personas-proto.md ':include')
 
-[Problem Reframing](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/problem-reframing.md ':include')
+[Problem Framing](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/problem-framing.md ':include')
 
 [Story Maps](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/story-maps.md ':include')
 
