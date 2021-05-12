@@ -37,38 +37,10 @@ Balsamiq Wireframes for Google Drive Overview
 
 ## Supplemental Readings  
 
-Brainstorming  
-_Brainstorming is a common group ideation technique._
+[Brainstorming](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/brainstorming.md ':include')
 
-*  [7 Tips on Better Brainstorming](https://challenges.openideo.com/blog/seven-tips-on-better-brainstorming)
-*  [How to run a brainstorming meeting](http://scottberkun.com/essays/34-how-to-run-a-brainstorming-meeting/)
-*  [Ideation in Practice: How Effective UX Teams Generate Ideas](https://www.nngroup.com/articles/ideation-in-practice/)
-*  [Tips for Structuring Better Brainstorming Sessions](http://www.inspireux.com/2013/07/18/tips-for-structuring-better-brainstorming-sessions/)
-*  [Troubleshooting Group Ideation: 10 Fixes for More and Better UX Ideas](https://www.nngroup.com/articles/group-ideation/?utm_content=buffer38903&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+[Prototyping](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/prototyping.md ':include')
 
-Prototyping  
-_The creation of a working model of a system or interface._
+[Scenarios](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/scenarios.md ':include')
 
-*  [Design Better And Faster With Rapid Prototyping](http://www.smashingmagazine.com/2010/06/design-better-faster-with-rapid-prototyping/)  
-*  [Designer’s Toolkit: Prototyping Tools](http://www.cooper.com/prototyping-tools)  
-*  [Designing with Code](http://www.uxbooth.com/articles/designing-with-code/)  
-*  [Five Prevalent Pitfalls when Prototyping](http://www.uie.com/articles/pitfalls_prototyping/)  
-*  [Flavors of Prototypes](http://www.svpg.com/flavors-of-prototypes)  
-*  [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860#.jycn9ioad)  
-*  [The Skeptic’s Guide To Low-Fidelity Prototyping](http://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)  
-*  [Using prototypes in user research](https://userresearch.blog.gov.uk/2014/08/27/using-prototypes-in-user-research/)  
-
-Scenarios  
-_Descriptions of how a specific user accomplishes their goal, with regards to an existing or yet-to-be system._
-
-*  [Create Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)  
-*  [Context-Rich Scenarios Make UX Projects Manageable](http://www.uie.com/articles/ux_projects_scenarios/)  
-*  [Tell me the story: the unifying role of scenarios in conceptual design](http://www.humanfactors.com/downloads/apr04.asp)  
-
-Storyboards  
-_A sequence of images or drawings representing a specific period of time._
-
-*  [Storyboarding a user experience](http://www.visualbloke.com/NUIVIGPage.html)  
-*  [Storyboards and Startups](http://www.akersarchitecturalrendering.com/blog/2010/3/14/storyboards-and-startups-how-sketching-can-help-entrepreneur.html)  
-*  [Telling Your Website's Story with Sketchboarding](http://www.uxbooth.com/blog/telling-your-websites-story-with-sketchboarding/)  
-*  [The 8 Steps To Creating A Great Storyboard](http://www.fastcodesign.com/1672917/the-8-steps-to-creating-a-great-storyboard/)  
+[Storyboards](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/storyboards.md ':include')

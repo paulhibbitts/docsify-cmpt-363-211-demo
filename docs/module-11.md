@@ -37,18 +37,6 @@ _Accessibility is the practice of removing barriers that prevent interaction or 
 *  [Design Accessibly, See Differently: Color Contrast Tips And Tools](https://www.smashingmagazine.com/2014/10/color-contrast-tips-and-tools-for-accessibility/)
 *  [Font Awesome & Accessibility](http://fontawesome.io/accessibility/)  
 
-Color  
-_Aspects of an object described in terms of hue, lightness, and saturation._
+[Color](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/color.md ':include')
 
-*  [Color - Usability Matters](http://colormatters.com/color-and-design/color-and-usability-matters)  
-*  [Color Basics: Dos and Dont's](http://www.colourlovers.com/blog/2009/06/02/color-basics-dos-and-donts)  
-*  [Color Theory for Designers, Part 1: The Meaning of Color](http://www.smashingmagazine.com/2010/01/28/color-theory-for-designers-part-1-the-meaning-of-color/)  
-*  [Colorblindness - A Usability Guide for Commercial Applications, Part 1](http://www.technewsworld.com/story/56106.html)  
-*  [Designing for Colour Blindness](https://blog.prototypr.io/designing-for-colour-blindness-b74a9d012ef2#.8rb3iitkn)  
-
-Color Tools  
-_Tools to help pick colors and color palettes._  
-
-*  [Adobe Color](https://color.adobe.com/)
-*  [Color Tool - Material Design](https://material.io/resources/color/)
-*  [Colormind](http://colormind.io/)
+[Color Tools](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/color-tools.md ':include')

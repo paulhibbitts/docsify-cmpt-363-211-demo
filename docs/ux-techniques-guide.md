@@ -408,109 +408,33 @@ _A visual representation that shows a key sequence of a task._
 <details>
   <summary>How to Explore and Describe Possible Design Solutions?</summary>
 
-Brainstorming  
-_Brainstorming is a common group ideation technique._
+[Brainstorming](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/brainstorming.md ':include')
 
-*  [7 Tips on Better Brainstorming](https://challenges.openideo.com/blog/seven-tips-on-better-brainstorming)
-*  [How to run a brainstorming meeting](http://scottberkun.com/essays/34-how-to-run-a-brainstorming-meeting/)
-*  [Ideation in Practice: How Effective UX Teams Generate Ideas](https://www.nngroup.com/articles/ideation-in-practice/)
-*  [Tips for Structuring Better Brainstorming Sessions](http://www.inspireux.com/2013/07/18/tips-for-structuring-better-brainstorming-sessions/)
-*  [Troubleshooting Group Ideation: 10 Fixes for More and Better UX Ideas](https://www.nngroup.com/articles/group-ideation/?utm_content=buffer38903&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+[Concept Maps](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/concept-maps.md ':include')
 
-Concept Maps  
-_A diagram showing how various concepts are related._
+[Conceptualizing Interaction](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/conceptualizing-interaction.md ':include')
 
-*  [Concept map](http://edutechwiki.unige.ch/en/Concept_map)
-*  [Concept maps vs. mind maps](http://mindmappingsoftwareblog.com/concept-maps-vs-mind-maps/)  
+[Design Patterns](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/design-patterns.md ':include')
 
-Conceptualizing Interaction  
-_Exploring what interaction model will be presented to the user through the use of structure, behavior, and visuals._
+[Design Systems](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/design-systems.md ':include')
 
-*  [Book Review: The Design of Everyday Things](http://jonathannicol.com/blog/2011/05/14/book-review-the-design-of-everyday-things/)  
-*  [Conceptual models: begin by designing what to design (PDF)](http://davidlamas.files.wordpress.com/2010/03/jeff-johnson.pdf)  
-*  [Conceptual Design for Interactive Systems: Designing for Performance and User Experience](http://www.uxmatters.com/mt/archives/2015/12/conceptual-design-for-interactive-systems-designing-for-performance-and-user-experience.php)  
-*  [Specifying what we want the user experience to be - the designer's model](https://www-01.ibm.com/software/ucd/designconcepts/threemodels/designer.html)  
+[Problem Reframing](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/problem-reframing.md ':include')
 
-Design Patterns  
-_General solutions for commonly occurring system design problems._
+[Process Flows](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/process-flows.md ':include')
 
-*  [Patternry](http://www.patternry.com/)  
-*  [UI Patterns](http://ui-patterns.com/)  
-*  [Who Benefits From the Use of Design Patterns?](https://dzone.com/articles/who-benefits-use-design)  
+[Prototyping](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/prototyping.md ':include')
 
-Design Systems  
-_A design system is a collection of reusable components, which can be used to build any number of applications._
+[Scenarios](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/scenarios.md ':include')
 
-*  [Design Systems Handbook](https://www.designbetter.co/design-systems-handbook)
-*  [On the Current State of Design Systems in UX](https://medium.com/innovatemap-current/on-the-current-state-of-design-systems-in-ux-4cd0aa1fad71)
-*  [The User Experience of Design Systems](https://runemadsen.com/talks/uxcampcph/)
+[Site Maps](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/site-maps.md ':include')
 
-Problem Reframing  
-_Re-examining the underlying goals, assumptions and perspectives that are assumed to be part of the problem._
+[Sketching](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/sketching.md ':include')
 
-*  [Abductive Thinking and Sensemaking: The Drivers of Design Synthesis](http://www.jonkolko.com/writingAbductiveThinking.php)  
-*  [Reframe: Shift the Way You Work, Innovate, and Think](http://www.uxmatters.com/mt/archives/2015/09/reframe-shift-the-way-you-work-innovate-and-think.php)  
-*  [Reframing is a Strategic Skill and a Design Thinking Skill](http://www.innovationexcellence.com/blog/2010/06/16/reframing-is-a-strategic-skill-and-a-design-thinking-skill/)  
+[Storyboards](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/storyboards.md ':include')
 
-Process Flows  
-_An illustration of specific processes a user may undertake within a system._
+[Wireflows](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/wireflows.md ':include')
 
-*  [Process Flow Definition](http://www.ehow.com/about_5040255_process-flow-definition.html)  
-*  [Task Flows](http://pathfindersoftware.com/tag/task-flows/)  
-*  [User Task Flows (PDF)](http://www.stickyminds.com/getfile.asp?ot=XML&amp;amp;amp;amp;id=12987&amp;amp;amp;amp;fn=XUS29543666file1%2Epdf)  
-
-Prototyping  
-_The creation of a working model of a system or interface._
-
-*  [Design Better And Faster With Rapid Prototyping](http://www.smashingmagazine.com/2010/06/design-better-faster-with-rapid-prototyping/)  
-*  [Designer’s Toolkit: Prototyping Tools](http://www.cooper.com/prototyping-tools)  
-*  [Designing with Code](http://www.uxbooth.com/articles/designing-with-code/)  
-*  [Five Prevalent Pitfalls when Prototyping](http://www.uie.com/articles/pitfalls_prototyping/)  
-*  [Flavors of Prototypes](http://www.svpg.com/flavors-of-prototypes)  
-*  [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860#.jycn9ioad)  
-*  [The Skeptic’s Guide To Low-Fidelity Prototyping](http://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)  
-*  [Using prototypes in user research](https://userresearch.blog.gov.uk/2014/08/27/using-prototypes-in-user-research/)  
-
-Scenarios  
-_Descriptions of how a specific user accomplishes their goal, with regards to an existing or yet-to-be system._
-
-*  [Create Scenarios](http://www.usability.gov/how-to-and-tools/methods/scenarios.html)  
-*  [Context-Rich Scenarios Make UX Projects Manageable](http://www.uie.com/articles/ux_projects_scenarios/)  
-*  [Tell me the story: the unifying role of scenarios in conceptual design](http://www.humanfactors.com/downloads/apr04.asp)  
-
-Site Maps  
-_Graphical or textual representation of the structure of a website._
-
-*  [Is the Sitemap Losing Its Client-Facing Steam?](http://uxmag.com/articles/is-the-sitemap-losing-its-client-facing-steam)  
-*  [UX 101: The Site Map](http://viget.com/inspire/ux-101-the-site-map)  
-
-Sketching  
-_A means to explore ideas and iterate on concepts quickly and easily._
-
-*  [User interface sketching tips part 1](http://ui-patterns.com/blog/User-interface-sketching-tips-part-1)  
-*  [Wireframe 101: Sketch First, Wireframe Later](http://maryshaw.net/wireframe-101-sketch-first-wireframe-later/)  
-
-Storyboards  
-_A sequence of images or drawings representing a specific period of time._
-
-*  [Storyboarding a user experience](http://www.visualbloke.com/NUIVIGPage.html)  
-*  [Storyboards and Startups](http://www.akersarchitecturalrendering.com/blog/2010/3/14/storyboards-and-startups-how-sketching-can-help-entrepreneur.html)  
-*  [Telling Your Website's Story with Sketchboarding](http://www.uxbooth.com/blog/telling-your-websites-story-with-sketchboarding/)  
-*  [The 8 Steps To Creating A Great Storyboard](http://www.fastcodesign.com/1672917/the-8-steps-to-creating-a-great-storyboard/)  
-
-Wireflows  
-_A combination of process flows and wireframes._
-
-*  [Page Level Wireflows](http://wireframes.linowski.ca/2009/02/page-level-wireflows/)  
-*  [State Level Wireflows and Transitions](http://wireframes.linowski.ca/2009/02/state-level-wireflows-and-transitions/)  
-
-Wireframes  
-_Drawings of individual screens that represent major content and navigation elements._
-
-*  [Priority Guides: A Content-First Alternative to Wireframes](http://alistapart.com/article/priority-guides-a-content-first-alternative-to-wireframes)  
-*  [Storyboarding a user experience](http://www.visualbloke.com/NUIVIGPage.html)  
-*  [Real Wireframes Get Real Results](http://boxesandarrows.com/real-wireframes-get-real-results/)  
-*  [Ultimate Guide to Website Wireframing](http://sixrevisions.com/user-interface/website-wireframing/)  
+[Wireframes](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/wireframes.md ':include')
 
 </details>
 
@@ -518,6 +442,8 @@ _Drawings of individual screens that represent major content and navigation elem
   <summary>What are the Essentials of Effective Visual Communication?</summary>
 
 [Color](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/color.md ':include')
+
+[Color Tools](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/color-tools.md ':include')
 
 [Grids](ux-techniques-guide/06.what-are-the-essentials-of-visual-interface-design/grids.md ':include')
 
