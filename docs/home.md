@@ -18,7 +18,8 @@
 <div class="row">
 <div class="column">
 
-Chat 1-on-1 Office Hours (here or [CSSS Discord](https://t.co/GZQUc6iVjS)):  
+Chat 1-on-1 Office Hours  
+Contact Paul here or [CSSS Discord](https://t.co/GZQUc6iVjS):  
 Mondays 12:00-12:30pm PT  
 Thursdays 12:00-12:30pm PT  
 
