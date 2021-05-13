@@ -21,7 +21,7 @@ body .markdown-section {
   text-decoration: underline;
 }
 
-@media screen and (max-width:850px) {
+@media screen and (max-width:800px) {
   .markdown-section .column {
     width: 100%;
   }
