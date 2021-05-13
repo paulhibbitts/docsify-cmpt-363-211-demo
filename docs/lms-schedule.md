@@ -2,12 +2,12 @@
 
 ## :fas fa-calendar fa-fw: [Week 1 (Jan 11 - 17)](https://canvas.sfu.ca/courses/62884/modules/items/2050631)
 **Course overview/What is usability and user experience design?**  
-:fas fa-desktop fa-fw: Course Overview <span class='badge'> Tue Jan 12th 2:30pm PT</span>  
-:fas fa-desktop fa-fw: Weekly Review Quiz Tutorial <span class='badge'> Fri Jan 15th 2:30pm PT</span>  
+:fas fa-desktop fa-fw: Course Overview <span class='badge'> [Tue Jan 12th 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Overview&iso=20210112T1430&p1=256&ah=1&am=50)</span>  
+:fas fa-desktop fa-fw: Weekly Review Quiz Tutorial <span class='badge'> [Fri Jan 15th 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210115T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
 :fas fa-book fa-fw: [The UX Pyramid (13 minute read)](https://uxdesign.cc/the-ux-pyramid-1e74ea61d95)  
-:fas fa-keyboard fa-fw: [One-minute Summaries for Week 1](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Jan 14th 11:59pm PT</span>  
-:fas fa-keyboard fa-fw: [Week 1 Review Quiz (Practice)](https://canvas.sfu.ca/courses/62884/assignments/642591) <span class='badge'> Sun Jan 17th 11:59pm PT</span>  
+:fas fa-keyboard fa-fw: [One-minute Summaries for Week 1](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> [Thu Jan 14th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+One-minute+Summaries+for+Week+1+Due+Date&iso=20210114T235900&p1=256)</span>  
+:fas fa-keyboard fa-fw: [Week 1 Review Quiz (Practice)](https://canvas.sfu.ca/courses/62884/assignments/642591) <span class='badge'> [Sun Jan 17th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+1+Review+Quiz+%28Practice%29+Due+Date&iso=20210117T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 2 (Jan 18 - 24)](https://canvas.sfu.ca/courses/62884/modules/items/2050632)
 **What is the practice of multi-device interaction design?**  
