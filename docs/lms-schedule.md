@@ -11,23 +11,23 @@
 
 ## :fas fa-calendar fa-fw: [Week 2 (Jan 18 - 24)](https://canvas.sfu.ca/courses/62884/modules/items/2050632)
 **What is the practice of multi-device interaction design?**  
-:fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> Tue Jan 19th 2:30pm PT</span>  
-:fas fa-desktop fa-fw: Review and Discussion <span class='badge'> Fri Jan 22nd 2:30pm PT</span>  
+:fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Jan 19th 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20210119T1430&p1=256&ah=1&am=50)</span>  
+:fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Fri Jan 22nd 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210122T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [Interaction design: a guide for beginners (19 minute read)](https://uxplanet.org/interaction-design-a-guide-for-beginners-32ff2364b53f)  
 :fas fa-book fa-fw: [Five HCI Laws for User Experience Design](https://measuringu.com/hci-laws/) (4 minute read)  
 :fas fa-book fa-fw: [Touch Targets on Touchscreens](https://www.nngroup.com/articles/touch-target-size/) (11 minute read)  
-:fas fa-keyboard fa-fw: [One-minute Summaries for Week 2](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Jan 21st 11:59pm PT</span>  
-:fas fa-keyboard fa-fw: [Week 2 Review Quiz (Practice)](https://canvas.sfu.ca/courses/62884/assignments/642592) <span class='badge'> Sun Jan 24th 11:59pm PT</span>  
+:fas fa-keyboard fa-fw: [One-minute Summaries for Week 2](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> [Thu Jan 21st 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20210121T235900&p1=256)</span>  
+:fas fa-keyboard fa-fw: [Week 2 Review Quiz (Practice)](https://canvas.sfu.ca/courses/62884/assignments/642592) <span class='badge'> [Sun Jan 24th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+2+Review+Quiz+%28Practice%29+Due+Date&iso=20210124T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 3 (Jan 25 - 31)](https://canvas.sfu.ca/courses/62884/modules/items/2050633)
 **How to conduct a user interface inspection?**  
-:fas fa-pen fa-fw: Individual Heuristic Inspection Assignment <span class='badge'> Mon Feb 8th 11:59pm PT</span>  
-:fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> Tue Jan 26th 2:30pm PT</span>  
-:fas fa-desktop fa-fw: Review and Discussion <span class='badge'> Fri Jan 29th 2:30pm PT</span>  
+:fas fa-pen fa-fw: Individual Heuristic Inspection Assignment <span class='badge'> [Mon Feb 8th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20210208T2359&p1=256)</span>  
+:fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Jan 26th 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20210126T1430&p1=256&ah=1&am=50)</span>  
+:fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Fri Jan 29th 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210129T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [How to Use Heuristic Evaluations to Improve Product Designs (8 minute read)](https://xd.adobe.com/ideas/process/user-testing/how-to-heuristic-evaluation-analysis-ux-design/)  
 :fas fa-book fa-fw: [Severity Ratings for Usability Problems (5 minute read)](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)   
-:fas fa-keyboard fa-fw: [One-minute Summaries for Week 3](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Jan 28th 11:59pm PT</span>  
-:fas fa-keyboard fa-fw: [Week 3 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642596) <span class='badge'> Sun Jan 31st 11:59pm PT</span>  
+:fas fa-keyboard fa-fw: [One-minute Summaries for Week 3](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> [Thu Jan 28th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20210128T235900&p1=256)</span>  
+:fas fa-keyboard fa-fw: [Week 3 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642596) <span class='badge'> [Sun Jan 31st 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Review+Quiz+Due+Date&iso=20210131T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 4 (Feb 1 - 7)](https://canvas.sfu.ca/courses/62884/modules/items/2050634)
 **Special topic - heuristic evaluations**  
