@@ -31,21 +31,21 @@
 
 ## :fas fa-calendar fa-fw: [Week 4 (Feb 1 - 7)](https://canvas.sfu.ca/courses/62884/modules/items/2050634)
 **Special topic - heuristic evaluations**  
-:fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> Tue Feb 2nd 2:30pm PT</span>  
-:fas fa-desktop fa-fw: Review and Discussion <span class='badge'> Fri Feb 5th 2:30pm PT</span>  
+:fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Feb 2nd 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210202T1430&p1=256&ah=1&am=50)</span>  
+:fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Fri Feb 5th 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210205T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
-:fas fa-keyboard fa-fw: [One-minute Summaries for Week 4](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Feb 4th 11:59pm PT</span>  
+:fas fa-keyboard fa-fw: [One-minute Summaries for Week 4](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> [Thu Feb 4th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20210204T235900&p1=256)</span>  
 :fas fa-keyboard fa-fw: No weekly review quiz  
 
 ## :fas fa-calendar fa-fw: [Week 5 (Feb 8 - 14)](https://canvas.sfu.ca/courses/62884/modules/items/2050635)
 **How to explore and describe possible design solutions?**    
-:fas fa-check fa-fw: [Individual Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/59869/assignments/583039) <span class='badge'> Mon Feb 8th 11:59pm PT</span>    
-:fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> Tue Feb 9th 2:30pm PT</span>  
-:fas fa-desktop fa-fw: Review and Discussion <span class='badge'> Fri Feb 12th 2:30pm PT</span>  
+:fas fa-check fa-fw: [Individual Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/59869/assignments/583039) <span class='badge'> [Mon Feb 8th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20210208T2359&p1=256)</span>    
+:fas fa-desktop fa-fw: Mini-lectures and Activities <span class='badge'> [Tue Feb 9th 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210209T1430&p1=256&ah=1&am=50)</span>  
+:fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Fri Feb 12th 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210212T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (12 minute read)](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860)  
 :fas fa-book fa-fw: [Chapter 2: Getting to Know Users and Their Tasks (22 minute read)](https://courses.cs.washington.edu/courses/cse440/08au/readings_files/lewis-reiman/chap-2.v-1.html)  
-:fas fa-keyboard fa-fw: [One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> Thu Feb 4th 11:59pm PT</span>    
-:fas fa-keyboard fa-fw: [Week 5 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642597) <span class='badge'> Sun Feb 14th 11:59pm PT</span>  
+:fas fa-keyboard fa-fw: [One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/61465/assignments) <span class='badge'> [Thu Feb 4th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20210211T235900&p1=256)</span>    
+:fas fa-keyboard fa-fw: [Week 5 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642597) <span class='badge'> [Sun Feb 14th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+5+Review+Quiz+Due+Date&iso=20210214T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 6 (Feb 15 - 21)](https://canvas.sfu.ca/courses/62884/modules/items/2050636)
 **Reading week, no classes**  
