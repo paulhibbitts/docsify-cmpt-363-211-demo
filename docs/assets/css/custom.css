@@ -20,3 +20,9 @@ body .markdown-section {
 .markdown-section a:hover {
   text-decoration: underline;
 }
+
+@media screen and (max-width:850px) {
+  .markdown-section .column {
+    width: 100%;
+  }
+}
