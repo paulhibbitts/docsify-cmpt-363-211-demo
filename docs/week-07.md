@@ -6,8 +6,8 @@
 [Design Scenarios and Storyboard Mockups](https://canvas.sfu.ca/courses/59869/assignments/583038)<span class='badge'> Mon Mar 15th 11:59pm PT</span>
 
 ## One-Minute Summaries and Questions  
-[A guide to top UX Research methods](https://canvas.sfu.ca/courses/59869/assignments/583026) <span class='badge'> Thu Feb 25th 11:59pm PT</span>
-[Job Stories Offer a Viable Alternative to User Stories](https://canvas.sfu.ca/courses/59869/assignments/583036) <span class='badge'> Thu Feb 25th 11:59pm PT</span>
+[A guide to top UX Research methods](https://canvas.sfu.ca/courses/59869/assignments/583026) <span class='badge'> Thu Feb 25th 11:59pm PT</span>  
+[Job Stories Offer a Viable Alternative to User Stories](https://canvas.sfu.ca/courses/59869/assignments/583036) <span class='badge'> Thu Feb 25th 11:59pm PT</span>  
 
 ## Weekly Quiz
 [Week 7 Review Quiz](https://canvas.sfu.ca/courses/62884/assignments/642598) <span class='badge'> Sun Feb 28th 11:59pm PT </span>
@@ -36,5 +36,9 @@
 [Job Stories](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/job-stories.md ':include')
 
 [Personas](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/personas.md ':include')
+
+[Problem Framing](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/problem-framing.md ':include')
+
+[Task Analysis](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/task-analysis.md ':include')
 
 [User Research](ux-techniques-guide/02.how-to-understand-and-communicate-peoples-needs-and-behaviors/user-research.md ':include')
