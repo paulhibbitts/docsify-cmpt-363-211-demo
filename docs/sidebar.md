@@ -21,3 +21,5 @@
 - [![Class Discussions](https://icongr.am/fontawesome/folder.svg?size=16&color=808080) Class Files](https://canvas.sfu.ca/courses/44038/discussion_topics)
 - [![Class Discussions](https://icongr.am/fontawesome/calculator.svg?size=16&color=808080) Class Grades](https://canvas.sfu.ca/courses/44038/discussion_topics)
 - [![Syllabus](https://icongr.am/fontawesome/list.svg?size=16&color=808080) Syllabus](https://canvas.sfu.ca/courses/44038/assignments/syllabus)
+- **Project Documentation**
+  - [ReadMe](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/master/README.md)
