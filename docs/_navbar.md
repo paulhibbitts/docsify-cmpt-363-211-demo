@@ -3,5 +3,5 @@
 * [All Readings](readings.md)
 * [Resources](resources.md)
 * [UX Techniques Guide](ux-techniques-guide.md)
-* [Contact Paul or TAs](contact.md)
+* [Contact Paul/TAs](contact.md)
 * [Project ReadMe](https://github.com/hibbitts-design/docsify-open-course-starter-kit/blob/main/README.md)
