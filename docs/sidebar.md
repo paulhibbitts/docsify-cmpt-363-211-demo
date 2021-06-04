@@ -14,10 +14,21 @@
 - [Week 13 (Apr 5 - Apr 11)](week-13)
 - [Week 14 (Apr 12 - 16)](week-14)
 - **LMS Links**
-- [![Calendar](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080) Calendar](https://canvas.sfu.ca/courses/44038/calendar)
-- [![Assignments](https://icongr.am/fontawesome/pencil.svg?size=16&color=808080) Assignments](https://canvas.sfu.ca/courses/44038/assignments )
-- [![Quizzes](https://icongr.am/fontawesome/check-circle.svg?size=16&color=808080) Quizzes](https://canvas.sfu.ca/courses/44038/quizzes)
-- [![Class Discussions](https://icongr.am/fontawesome/comments-o.svg?size=16&color=808080) Class Discussions](https://canvas.sfu.ca/courses/44038/discussion_topics)
-- [![Class Discussions](https://icongr.am/fontawesome/folder.svg?size=16&color=808080) Class Files](https://canvas.sfu.ca/courses/44038/discussion_topics)
-- [![Class Discussions](https://icongr.am/fontawesome/calculator.svg?size=16&color=808080) Class Grades](https://canvas.sfu.ca/courses/44038/discussion_topics)
-- [![Syllabus](https://icongr.am/fontawesome/list.svg?size=16&color=808080) Syllabus](https://canvas.sfu.ca/courses/44038/assignments/syllabus)
+- [![Calendar](https://icongr.am/fontawesome/calendar.svg?size=16&color=6D6F71) Calendar](https://canvas.sfu.ca/courses/44038/calendar)
+- [![Assignments](https://icongr.am/fontawesome/pencil.svg?size=16&color=6D6F71) Assignments](https://canvas.sfu.ca/courses/44038/assignments )
+- [![Quizzes](https://icongr.am/fontawesome/check-circle.svg?size=16&color=6D6F71) Quizzes](https://canvas.sfu.ca/courses/44038/quizzes)
+- [![Class Discussions](https://icongr.am/fontawesome/comments-o.svg?size=16&color=6D6F71) Class Discussions](https://canvas.sfu.ca/courses/44038/discussion_topics)
+- [![Class Discussions](https://icongr.am/fontawesome/folder.svg?size=16&color=6D6F71) Class Files](https://canvas.sfu.ca/courses/44038/discussion_topics)
+- [![Class Discussions](https://icongr.am/fontawesome/calculator.svg?size=16&color=6D6F71) Class Grades](https://canvas.sfu.ca/courses/44038/discussion_topics)
+- [![Syllabus](https://icongr.am/fontawesome/list.svg?size=16&color=6D6F71) Syllabus](https://canvas.sfu.ca/courses/44038/assignments/syllabus)
+
+<style>
+  :root {
+
+    --link-color: #A6192E;
+    --link-text-decoration: none;
+    --link-text-decoration--hover: underline;
+
+  }
+
+</style>
