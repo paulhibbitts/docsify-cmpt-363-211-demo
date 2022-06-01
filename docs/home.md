@@ -18,8 +18,8 @@
 <div class="row">
 <div class="column">
 
-Chat 1-on-1 Office Hours  
-Contact Paul here or [CSSS Discord](https://t.co/GZQUc6iVjS):  
+Chat 1-on-1 Office Hours:   
+Contact Paul here or [CSSS Discord](https://t.co/GZQUc6iVjS)  
 Mondays 12:00-12:30pm PT  
 Thursdays 12:00-12:30pm PT  
 
@@ -50,5 +50,8 @@ Zoom 1-on-1 Office Hours:
 No weekly review quiz.  
 
 ---
+
+**80's Flashback Friday**  
+[The Psychedelic Furs - The Ghost in You](https://www.youtube.com/watch?v=T87u5yuUVi8&ab_channel=PsychedelicFursVEVO)  
 
 <a class="weatherwidget-io" href="https://forecast7.com/en/49d25n122d98/burnaby/" data-label_1="Burnaby, BC" data-label_2="Current Weather" data-font="Open Sans" data-icons="Climacons" data-mode="Current" data-days="3" data-theme="weather_one" >Burnaby, BC Current Weather</a>
