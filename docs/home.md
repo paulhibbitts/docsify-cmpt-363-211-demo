@@ -1,17 +1,17 @@
 > # What’s Happening This Week 💫
 > ## How can we conduct a user interface inspection?
-> ### [Live Blackboard Collaborate Sessions](https://canvas.sfu.ca/courses/61465/external_tools/3544)  
+> ### [Live Blackboard Collaborate Sessions](https://canvas.sfu.ca/courses/62884/external_tools/3544)  
 > *  Mini-lectures and Activities <span class='badge'> [Tue Jan 26th 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20210126T1430&p1=256&ah=1&am=50) </span>
 > *  Review and Discussion  <span class='badge'> [Fri Jan 29th 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20210129T1430&p1=256&am=50)</span>
 >
 > ### Important Reminders
-> *  [Individual Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/61465/assignments/610787) <span class='badge'> [Mon Feb 8th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Assignment+Due+Date&iso=20210208T2359)</span>
+> *  [Individual Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/62884/assignments/642589) <span class='badge'> [Mon Feb 8th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Assignment+Due+Date&iso=20210208T2359)</span>
 >
 > ### Required Readings & One-Minute Summaries
-> *  [How to Use Heuristic Evaluations to Improve Product Designs](https://canvas.sfu.ca/courses/61465/assignments/610785) <span class='badge'> [Thu Jan 28th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Week+4+%28Jan+28+-+18%29+Weekly+Readings+One-Minute+Summaries+Due+Date&iso=20210128T2359&p1=256)</span>
-> *  [Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/61465/assignments/610784) <span class='badge'> [Thu Jan 28th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Week+4+%28Jan+28+-+18%29+Weekly+Readings+One-Minute+Summaries+Due+Date&iso=20210128T2359&p1=256)</span>
+> *  [How to Use Heuristic Evaluations to Improve Product Designs](https://canvas.sfu.ca/courses/62884/assignments/642587) <span class='badge'> [Thu Jan 28th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Week+4+%28Jan+28+-+18%29+Weekly+Readings+One-Minute+Summaries+Due+Date&iso=20210128T2359&p1=256)</span>
+> *  [Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/62884/assignments/642586) <span class='badge'> [Thu Jan 28th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Week+4+%28Jan+28+-+18%29+Weekly+Readings+One-Minute+Summaries+Due+Date&iso=20210128T2359&p1=256)</span>
 >
-> [Week 3 Review Quiz due Jan 31](https://canvas.sfu.ca/courses/61465/assignments/610794 ':class=button')
+> [Week 3 Review Quiz due Jan 31](https://canvas.sfu.ca/courses/62884/assignments/642596 ':class=button')
 
 # Online Office (Student) Hours 🏫
 

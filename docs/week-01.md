@@ -18,11 +18,11 @@
 
 ## BlackBoard Collaborate Session Slides
 
-[Course Overview](https://docs.google.com/presentation/d/e/2PACX-1vSXtaVXx41t1chhxkkLvYcEu7DHFrh2zIbVblo_PvIUTmSYw8xTYIM6Lb-6IxoJvMEdQgBZdwAECVl8/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/61465/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-01) | [Recording](https://canvas.sfu.ca/courses/61465/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
+[Course Overview](https://docs.google.com/presentation/d/e/2PACX-1vSXtaVXx41t1chhxkkLvYcEu7DHFrh2zIbVblo_PvIUTmSYw8xTYIM6Lb-6IxoJvMEdQgBZdwAECVl8/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/62884/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-01) | [Recording](https://canvas.sfu.ca/courses/62884/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSXtaVXx41t1chhxkkLvYcEu7DHFrh2zIbVblo_PvIUTmSYw8xTYIM6Lb-6IxoJvMEdQgBZdwAECVl8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-[Week 1 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vS28xi-S4fx-GyQ6uw-5Sk2L9uNenrV7wZ3hLjJegaoiZ34Wa9R6-B91qXWcN_MQ7S1twdANhjYNan_/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/61465/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-01) | [Recording](https://canvas.sfu.ca/courses/61465/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
+[Week 1 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vS28xi-S4fx-GyQ6uw-5Sk2L9uNenrV7wZ3hLjJegaoiZ34Wa9R6-B91qXWcN_MQ7S1twdANhjYNan_/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/62884/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-01) | [Recording](https://canvas.sfu.ca/courses/62884/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS28xi-S4fx-GyQ6uw-5Sk2L9uNenrV7wZ3hLjJegaoiZ34Wa9R6-B91qXWcN_MQ7S1twdANhjYNan_/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
@@ -32,7 +32,7 @@
 
 ## Downloads
 
-[Product Reaction Cards](https://canvas.sfu.ca/courses/61465/files/folder/Downloads/Product%20Reaction%20Cards)  
+[Product Reaction Cards](https://canvas.sfu.ca/courses/62884/files/folder/Downloads/Product%20Reaction%20Cards)  
 
 ## Supplemental Readings
 
