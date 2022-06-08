@@ -175,7 +175,7 @@
 
     <!-- Adjust Page Margins When Standalone or Embedded -->
     <script>
-      if (getURLParameterByName(['standalone','embedded']) || standalone) {
+      if (getParameterByName('embedded') === 'true') {
         var editCSS = document.createElement('style')
         editCSS.innerHTML = ".markdown-section {padding: 1rem 10px;}";
         document.body.appendChild(editCSS);
